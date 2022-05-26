@@ -42,8 +42,8 @@ Range 1: 41869851 to 41869867
 Score:34.2 bits(17), Expect:0.79, 
 Identities:17/17(100%),  Gaps:0/17(0%), Strand: Plus/Plus
 
-Query  5              ATCCTAGGGGCCGGCTG  21
-                                      |||||||||||||||||
+Query  5         ATCCTAGGGGCCGGCTG  21
+                 |||||||||||||||||
 Sbjct  41869851  ATCCTAGGGGCCGGCTG  41869867
 
 
