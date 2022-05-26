@@ -5,8 +5,8 @@ Database: Genome (T2T-CHM13v2.0) Homo sapiens T2T-CHM13v2.0 [GCF_009914755.1] ch
 Query #1:  Query ID: lcl|Query_7491 Length: 22
 
 Sequences producing significant alignments:
-                                                                                                                     Scientific      Common                         Max   Total Query   E       Per.       Acc.                        
-Description                                                                                                    Name            Name            Taxid      Score  Score cover Value  Ident       Len             Accession        
+                                                                  Scientific      Common                         Max   Total Query   E       Per.       Acc.                       
+Description                                                        Name            Name            Taxid      Score  Score cover Value  Ident       Len             Accession        
 Homo sapiens isolate CHM13 chromosome 6, alternate assembly...    Homo sapiens    human           9606       34.2   2099  100%  0.79  100.00 172126628  NC_060930.1      
 Homo sapiens isolate CHM13 chromosome 9, alternate assembly...    Homo sapiens    human           9606       32.2   1565  100%  3.1   100.00 150617247  NC_060933.1      
 Homo sapiens isolate CHM13 chromosome 1, alternate assembly...    Homo sapiens    human           9606       30.2   3804  100%  12    100.00 248387328  NC_060925.1      
