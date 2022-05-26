@@ -1,0 +1,5063 @@
+RID: 8ZZ22X4B013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1:  Query ID: lcl|Query_12957 Length: 22
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163928.1       
+SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163927.1       
+SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163926.1       
+SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163925.1       
+SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163924.1       
+SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome     SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29646      JX163923.1       
+SARS coronavirus Tor2, complete genome                            SARS coronav... NA              227984     36.2   91.2  100%  0.002 95.45  29751      NC_004718.3      
+SARS coronavirus isolate CFB/SZ/94/03, complete genome            Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29739      AY545919.1       
+SARS coronavirus isolate HC/GZ/32/03, complete genome             Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29737      AY545918.1       
+SARS coronavirus isolate HC/GZ/81/03, complete genome             Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29739      AY545917.1       
+SARS coronavirus isolate HC/SZ/266/03, complete genome            Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29721      AY545916.1       
+SARS coronavirus isolate HC/SZ/DM1/03, complete genome            Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29714      AY545915.1       
+SARS coronavirus isolate HC/SZ/79/03, complete genome             Severe acute... NA              2901879    36.2   91.2  100%  0.002 95.45  29723      AY545914.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    24.3   97.6  95%   8.3   90.00  30483      MG987421.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    24.3   79.3  95%   8.3   90.00  30484      MG987420.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30123      MN723544.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30120      MN723543.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30120      MN723542.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29994      OL622036.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29994      OL622035.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30103      MW545528.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30103      MW545527.1       
+Middle East respiratory syndrome-related coronavirus strain...    Middle East ... NA              1335626    22.3   40.6  54%   33    100.00 20189      MT818221.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   97.6  77%   33    100.00 30118      MT226607.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226606.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226605.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226604.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226603.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226602.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226601.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT226600.1       
+Mutant Middle East respiratory syndrome-related coronavirus...    Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30136      MT361640.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758614.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758613.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758611.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758609.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758608.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758607.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30089      MN758606.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29998      MN655017.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29992      MN655016.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30108      MN655014.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN655013.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30001      MN655012.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN655011.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN655010.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30111      MN655008.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30006      MN655007.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN655006.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30111      MN655005.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN655004.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30003      MN655002.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN655001.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30113      MN654999.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654997.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30006      MN654996.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654995.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30048      MN654994.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30000      MN654993.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30101      MN654992.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654991.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654990.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30111      MN654989.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30111      MN654988.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN654986.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN654985.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654984.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30112      MN654983.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30004      MN654982.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 18173      MW086540.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29815      MW086539.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29825      MW086538.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 23335      MW086537.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 23327      MW086536.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29825      MW086535.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29826      MW086534.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29819      MW086533.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086532.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086531.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086530.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086529.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086528.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29786      MW086527.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29894      MT675269.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   40.6  54%   33    100.00 28661      MT675268.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   59.0  59%   33    100.00 29200      MT675266.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29989      MT675265.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   59.0  59%   33    100.00 27748      MT675264.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   59.0  59%   33    100.00 29755      MT675263.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30027      MT675262.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30028      MT675261.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30118      MT675260.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29898      MT675259.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   59.0  59%   33    100.00 29545      MT675258.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29675      MT675257.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30104      MT675256.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29898      MT675255.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 29474      MT675254.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30009      MT675253.1       
+Middle East respiratory syndrome-related coronavirus isolate...   Middle East ... NA              1335626    22.3   79.3  59%   33    100.00 30115      MT576585.1       
+
+
+Alignments:
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome
+Sequence ID: JX163928.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome
+Sequence ID: JX163927.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome
+Sequence ID: JX163926.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10895, complete genome
+Sequence ID: JX163925.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10851, complete genome
+Sequence ID: JX163924.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2 isolate Tor2/FP1-10912, complete genome
+Sequence ID: JX163923.1 Length: 29646
+Range 1: 13410 to 13431
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13410  GTACTGATGTCGTCTACAGGGC  13431
+
+
+
+
+Range 2: 5794 to 5802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5794  TGTCGTATA  5802
+
+
+
+
+Range 3: 12643 to 12651
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12643  GTACTGATG  12651
+
+
+
+
+Range 4: 24775 to 24783
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24775  TGATGTCGT  24783
+
+
+
+
+>SARS coronavirus Tor2, complete genome
+Sequence ID: NC_004718.3 Length: 29751
+>SARS coronavirus Tor2, complete genome
+Sequence ID: AY274119.3 Length: 29751 
+Range 1: 13450 to 13471
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13450  GTACTGATGTCGTCTACAGGGC  13471
+
+
+
+
+Range 2: 5834 to 5842
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5834  TGTCGTATA  5842
+
+
+
+
+Range 3: 12683 to 12691
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12683  GTACTGATG  12691
+
+
+
+
+Range 4: 24815 to 24823
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24815  TGATGTCGT  24823
+
+
+
+
+>SARS coronavirus isolate CFB/SZ/94/03, complete genome
+Sequence ID: AY545919.1 Length: 29739
+Range 1: 13429 to 13450
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13429  GTACTGATGTCGTCTACAGGGC  13450
+
+
+
+
+Range 2: 5813 to 5821
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5813  TGTCGTATA  5821
+
+
+
+
+Range 3: 12662 to 12670
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12662  GTACTGATG  12670
+
+
+
+
+Range 4: 24794 to 24802
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24794  TGATGTCGT  24802
+
+
+
+
+>SARS coronavirus isolate HC/GZ/32/03, complete genome
+Sequence ID: AY545918.1 Length: 29737
+Range 1: 13416 to 13437
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13416  GTACTGATGTCGTCTACAGGGC  13437
+
+
+
+
+Range 2: 5800 to 5808
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5800  TGTCGTATA  5808
+
+
+
+
+Range 3: 12649 to 12657
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12649  GTACTGATG  12657
+
+
+
+
+Range 4: 24781 to 24789
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24781  TGATGTCGT  24789
+
+
+
+
+>SARS coronavirus isolate HC/GZ/81/03, complete genome
+Sequence ID: AY545917.1 Length: 29739
+Range 1: 13414 to 13435
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13414  GTACTGATGTCGTCTACAGGGC  13435
+
+
+
+
+Range 2: 5798 to 5806
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5798  TGTCGTATA  5806
+
+
+
+
+Range 3: 12647 to 12655
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12647  GTACTGATG  12655
+
+
+
+
+Range 4: 24779 to 24787
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24779  TGATGTCGT  24787
+
+
+
+
+>SARS coronavirus isolate HC/SZ/266/03, complete genome
+Sequence ID: AY545916.1 Length: 29721
+Range 1: 13416 to 13437
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13416  GTACTGATGTCGTCTACAGGGC  13437
+
+
+
+
+Range 2: 5800 to 5808
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5800  TGTCGTATA  5808
+
+
+
+
+Range 3: 12649 to 12657
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12649  GTACTGATG  12657
+
+
+
+
+Range 4: 24781 to 24789
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24781  TGATGTCGT  24789
+
+
+
+
+>SARS coronavirus isolate HC/SZ/DM1/03, complete genome
+Sequence ID: AY545915.1 Length: 29714
+Range 1: 13418 to 13439
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13418  GTACTGATGTCGTCTACAGGGC  13439
+
+
+
+
+Range 2: 5802 to 5810
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5802  TGTCGTATA  5810
+
+
+
+
+Range 3: 12651 to 12659
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12651  GTACTGATG  12659
+
+
+
+
+Range 4: 24783 to 24791
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24783  TGATGTCGT  24791
+
+
+
+
+>SARS coronavirus isolate HC/SZ/79/03, complete genome
+Sequence ID: AY545914.1 Length: 29723
+Range 1: 13427 to 13448
+
+Score:36.2 bits(18), Expect:0.002, 
+Identities:21/22(95%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATGTCGTATACAGGGC  22
+              ||||||||||||| ||||||||
+Sbjct  13427  GTACTGATGTCGTCTACAGGGC  13448
+
+
+
+
+Range 2: 5811 to 5819
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  8     TGTCGTATA  16
+             |||||||||
+Sbjct  5811  TGTCGTATA  5819
+
+
+
+
+Range 3: 12660 to 12668
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12660  GTACTGATG  12668
+
+
+
+
+Range 4: 24792 to 24800
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGT  13
+              |||||||||
+Sbjct  24792  TGATGTCGT  24800
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate NL140455, complete genome
+Sequence ID: MG987421.1 Length: 30483
+Range 1: 13845 to 13864
+
+Score:24.3 bits(12), Expect:8.3, 
+Identities:18/20(90%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGTATACAGGGC  22
+              ||||||||||| || |||||
+Sbjct  13845  ACTGATGTCGTTTATAGGGC  13864
+
+
+
+
+Range 2: 15324 to 15332
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  7      ATGTCGTAT  15
+              |||||||||
+Sbjct  15324  ATGTCGTAT  15332
+
+
+
+
+Range 3: 20280 to 20288
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTA  14
+              |||||||||
+Sbjct  20288  GATGTCGTA  20280
+
+
+
+
+Range 4: 21830 to 21838
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21830  TACTGATGT  21838
+
+
+
+
+Range 5: 22687 to 22699
+
+Score:18.3 bits(9), Expect:511, 
+Identities:12/13(92%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  8      TGTCGTATACAGG  20
+              |||| ||||||||
+Sbjct  22699  TGTCATATACAGG  22687
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate NL13892, complete genome
+Sequence ID: MG987420.1 Length: 30484
+Range 1: 13851 to 13870
+
+Score:24.3 bits(12), Expect:8.3, 
+Identities:18/20(90%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGTATACAGGGC  22
+              ||||||||||| || |||||
+Sbjct  13851  ACTGATGTCGTTTATAGGGC  13870
+
+
+
+
+Range 2: 15330 to 15338
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  7      ATGTCGTAT  15
+              |||||||||
+Sbjct  15330  ATGTCGTAT  15338
+
+
+
+
+Range 3: 20286 to 20294
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTA  14
+              |||||||||
+Sbjct  20294  GATGTCGTA  20286
+
+
+
+
+Range 4: 21836 to 21844
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21836  TACTGATGT  21844
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Hu/Riyadh-KSA-18013832/2018, complete genome
+Sequence ID: MN723544.1 Length: 30123
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-173RS1570/2017, complete genome
+Sequence ID: MN723543.1 Length: 30120
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Hu/Jeddah-KSA-173RS1101/2017, complete genome
+Sequence ID: MN723542.1 Length: 30120
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV_Dammam_2019, complete genome
+Sequence ID: OL622036.1 Length: 29994
+Range 1: 13454 to 13464
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13454  ACTGATGTCGT  13464
+
+
+
+
+Range 2: 8544 to 8553
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8544  GTACTGATGT  8553
+
+
+
+
+Range 3: 14277 to 14285
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14277  GTACTGATG  14285
+
+
+
+
+Range 4: 21439 to 21447
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21439  TACTGATGT  21447
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV_Riyadh_2016, complete genome
+Sequence ID: OL622035.1 Length: 29994
+Range 1: 13454 to 13464
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13454  ACTGATGTCGT  13464
+
+
+
+
+Range 2: 8544 to 8553
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8544  GTACTGATGT  8553
+
+
+
+
+Range 3: 14277 to 14285
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14277  GTACTGATG  14285
+
+
+
+
+Range 4: 21439 to 21447
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21439  TACTGATGT  21447
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate D1189.6, complete genome
+Sequence ID: MW545528.1 Length: 30103
+Range 1: 13471 to 13481
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13471  ACTGATGTCGT  13481
+
+
+
+
+Range 2: 8561 to 8570
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8561  GTACTGATGT  8570
+
+
+
+
+Range 3: 14294 to 14302
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14294  GTACTGATG  14302
+
+
+
+
+Range 4: 21456 to 21464
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21456  TACTGATGT  21464
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate D1189.5, complete genome
+Sequence ID: MW545527.1 Length: 30103
+Range 1: 13471 to 13481
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13471  ACTGATGTCGT  13481
+
+
+
+
+Range 2: 8561 to 8570
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8561  GTACTGATGT  8570
+
+
+
+
+Range 3: 14294 to 14302
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14294  GTACTGATG  14302
+
+
+
+
+Range 4: 21456 to 21464
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21456  TACTGATGT  21464
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus strain BatCoV/V.murinus/Switzerland/2019 ORF1ab (orf1ab), ORF1a (orf1ab), and S protein genes, partial cds
+Sequence ID: MT818221.1 Length: 20189
+Range 1: 10518 to 10528
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  10518  ACTGATGTCGT  10528
+
+
+
+
+Range 2: 18506 to 18514
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  18506  TACTGATGT  18514
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/1290, complete genome
+Sequence ID: MT226607.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+Range 5: 25007 to 25015
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  9      GTCGTATAC  17
+              |||||||||
+Sbjct  25007  GTCGTATAC  25015
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/228, complete genome
+Sequence ID: MT226606.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/227, complete genome
+Sequence ID: MT226605.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/B5-02, complete genome
+Sequence ID: MT226604.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/219, complete genome
+Sequence ID: MT226603.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/211, complete genome
+Sequence ID: MT226602.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/B5/02, complete genome
+Sequence ID: MT226601.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Camel/B8-03, complete genome
+Sequence ID: MT226600.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Mutant Middle East respiratory syndrome-related coronavirus clone MERS-CoV YKC, complete genome
+Sequence ID: MT361640.1 Length: 30136
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-N/2017, complete genome
+Sequence ID: MN758614.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-G/2017, complete genome
+Sequence ID: MN758613.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-J/2017, complete genome
+Sequence ID: MN758611.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-K/2017, complete genome
+Sequence ID: MN758609.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-R/2017, complete genome
+Sequence ID: MN758608.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-P/2017, complete genome
+Sequence ID: MN758607.1 Length: 30089
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-I/2017, complete genome
+Sequence ID: MN758606.1 Length: 30089
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-O/2017, complete genome
+Sequence ID: MN758610.1 Length: 30089
+>Middle East respiratory syndrome-related coronavirus isolate camel/KFU-HKU-M/2017, complete genome
+Sequence ID: MN758612.1 Length: 30089 
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2117/2016, complete genome
+Sequence ID: MN655017.1 Length: 29998
+Range 1: 13484 to 13494
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13484  ACTGATGTCGT  13494
+
+
+
+
+Range 2: 8574 to 8583
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8574  GTACTGATGT  8583
+
+
+
+
+Range 3: 14307 to 14315
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14307  GTACTGATG  14315
+
+
+
+
+Range 4: 21469 to 21477
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21469  TACTGATGT  21477
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1997/2015, complete genome
+Sequence ID: MN655016.1 Length: 29992
+Range 1: 13478 to 13488
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13478  ACTGATGTCGT  13488
+
+
+
+
+Range 2: 8568 to 8577
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8568  GTACTGATGT  8577
+
+
+
+
+Range 3: 14301 to 14309
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14301  GTACTGATG  14309
+
+
+
+
+Range 4: 21463 to 21471
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21463  TACTGATGT  21471
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1948, complete genome
+Sequence ID: MN655014.1 Length: 30108
+Range 1: 13486 to 13496
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13486  ACTGATGTCGT  13496
+
+
+
+
+Range 2: 8576 to 8585
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8576  GTACTGATGT  8585
+
+
+
+
+Range 3: 14309 to 14317
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14309  GTACTGATG  14317
+
+
+
+
+Range 4: 21471 to 21479
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21471  TACTGATGT  21479
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2575, complete genome
+Sequence ID: MN655013.1 Length: 30004
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2685/2017, complete genome
+Sequence ID: MN655012.1 Length: 30001
+Range 1: 13486 to 13496
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13486  ACTGATGTCGT  13496
+
+
+
+
+Range 2: 8576 to 8585
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8576  GTACTGATGT  8585
+
+
+
+
+Range 3: 14309 to 14317
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14309  GTACTGATG  14317
+
+
+
+
+Range 4: 21471 to 21479
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21471  TACTGATGT  21479
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2205/2016, complete genome
+Sequence ID: MN655011.1 Length: 30004
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2673/2017, complete genome
+Sequence ID: MN655010.1 Length: 30004
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2696/2017, complete genome
+Sequence ID: MN655008.1 Length: 30111
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1940, complete genome
+Sequence ID: MN655007.1 Length: 30006
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4566/2018, complete genome
+Sequence ID: MN655006.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4068/2017, complete genome
+Sequence ID: MN655005.1 Length: 30111
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4554, complete genome
+Sequence ID: MN655004.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2677/2017, complete genome
+Sequence ID: MN655002.1 Length: 30003
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4765/2018, complete genome
+Sequence ID: MN655001.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4116/2017, complete genome
+Sequence ID: MN654999.1 Length: 30113
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4104/2017, complete genome
+Sequence ID: MN655009.1 Length: 30113 
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4809, complete genome
+Sequence ID: MN654997.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2159/2016, complete genome
+Sequence ID: MN654996.1 Length: 30006
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4586/2018, complete genome
+Sequence ID: MN654995.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA3228/2017, complete genome
+Sequence ID: MN654994.1 Length: 30048
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1950, complete genome
+Sequence ID: MN654993.1 Length: 30000
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1954, complete genome
+Sequence ID: MN655015.1 Length: 30000 
+Range 1: 13486 to 13496
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13486  ACTGATGTCGT  13496
+
+
+
+
+Range 2: 8576 to 8585
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8576  GTACTGATGT  8585
+
+
+
+
+Range 3: 14309 to 14317
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14309  GTACTGATG  14317
+
+
+
+
+Range 4: 21471 to 21479
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21471  TACTGATGT  21479
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2247/2016, complete genome
+Sequence ID: MN654992.1 Length: 30101
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1989/2015, complete genome
+Sequence ID: MN654991.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4535, complete genome
+Sequence ID: MN654990.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2579/2017, complete genome
+Sequence ID: MN654989.1 Length: 30111
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1946, complete genome
+Sequence ID: MN654988.1 Length: 30111
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2691/2017, complete genome
+Sequence ID: MN654986.1 Length: 30004
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA1944, complete genome
+Sequence ID: MN654985.1 Length: 30004
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2675/2017, complete genome
+Sequence ID: MN654998.1 Length: 30004
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2679/2017, complete genome
+Sequence ID: MN655003.1 Length: 30004 
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4819, complete genome
+Sequence ID: MN654984.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA4047/2017, complete genome
+Sequence ID: MN654983.1 Length: 30112
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2557/2017, complete genome
+Sequence ID: MN654982.1 Length: 30004
+>Middle East respiratory syndrome-related coronavirus isolate Al-Hasa-SA2626/2017, complete genome
+Sequence ID: MN655000.1 Length: 30004 
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC42/Ramtha ORF1ab (orf1ab), ORF1a (orf1ab), and S protein (S) genes, partial cds
+Sequence ID: MW086540.1 Length: 18173
+Range 1: 6970 to 6980
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3     ACTGATGTCGT  13
+             |||||||||||
+Sbjct  6970  ACTGATGTCGT  6980
+
+
+
+
+Range 2: 2060 to 2069
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  2060  GTACTGATGT  2069
+
+
+
+
+Range 3: 7793 to 7801
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATG  9
+             |||||||||
+Sbjct  7793  GTACTGATG  7801
+
+
+
+
+Range 4: 14955 to 14963
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  14955  TACTGATGT  14963
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC33/Ramtha, complete genome
+Sequence ID: MW086539.1 Length: 29815
+Range 1: 13429 to 13439
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13429  ACTGATGTCGT  13439
+
+
+
+
+Range 2: 8519 to 8528
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8519  GTACTGATGT  8528
+
+
+
+
+Range 3: 14252 to 14260
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14252  GTACTGATG  14260
+
+
+
+
+Range 4: 21414 to 21422
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21414  TACTGATGT  21422
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC44/Ramtha, complete genome
+Sequence ID: MW086538.1 Length: 29825
+Range 1: 13429 to 13439
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13429  ACTGATGTCGT  13439
+
+
+
+
+Range 2: 8519 to 8528
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8519  GTACTGATGT  8528
+
+
+
+
+Range 3: 14252 to 14260
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14252  GTACTGATG  14260
+
+
+
+
+Range 4: 21414 to 21422
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21414  TACTGATGT  21422
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC38/Ramtha, complete genome
+Sequence ID: MW086537.1 Length: 23335
+Range 1: 6958 to 6968
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3     ACTGATGTCGT  13
+             |||||||||||
+Sbjct  6958  ACTGATGTCGT  6968
+
+
+
+
+Range 2: 2048 to 2057
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  2048  GTACTGATGT  2057
+
+
+
+
+Range 3: 7781 to 7789
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATG  9
+             |||||||||
+Sbjct  7781  GTACTGATG  7789
+
+
+
+
+Range 4: 14943 to 14951
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  14943  TACTGATGT  14951
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC45/Ramtha, complete genome
+Sequence ID: MW086536.1 Length: 23327
+Range 1: 6950 to 6960
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3     ACTGATGTCGT  13
+             |||||||||||
+Sbjct  6950  ACTGATGTCGT  6960
+
+
+
+
+Range 2: 2040 to 2049
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  2040  GTACTGATGT  2049
+
+
+
+
+Range 3: 7773 to 7781
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATG  9
+             |||||||||
+Sbjct  7773  GTACTGATG  7781
+
+
+
+
+Range 4: 14935 to 14943
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  14935  TACTGATGT  14943
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC32/Ramtha, complete genome
+Sequence ID: MW086535.1 Length: 29825
+Range 1: 13429 to 13439
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13429  ACTGATGTCGT  13439
+
+
+
+
+Range 2: 8519 to 8528
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8519  GTACTGATGT  8528
+
+
+
+
+Range 3: 14252 to 14260
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14252  GTACTGATG  14260
+
+
+
+
+Range 4: 21414 to 21422
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21414  TACTGATGT  21422
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC31/Ramtha, complete genome
+Sequence ID: MW086534.1 Length: 29826
+Range 1: 13429 to 13439
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13429  ACTGATGTCGT  13439
+
+
+
+
+Range 2: 8519 to 8528
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8519  GTACTGATGT  8528
+
+
+
+
+Range 3: 14252 to 14260
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14252  GTACTGATG  14260
+
+
+
+
+Range 4: 21414 to 21422
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21414  TACTGATGT  21422
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC37/Ramtha, complete genome
+Sequence ID: MW086533.1 Length: 29819
+Range 1: 13422 to 13432
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13422  ACTGATGTCGT  13432
+
+
+
+
+Range 2: 8512 to 8521
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8512  GTACTGATGT  8521
+
+
+
+
+Range 3: 14245 to 14253
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14245  GTACTGATG  14253
+
+
+
+
+Range 4: 21407 to 21415
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21407  TACTGATGT  21415
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC30/Ramtha, complete genome
+Sequence ID: MW086532.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC26/Ramtha, complete genome
+Sequence ID: MW086531.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC27/Ramtha, complete genome
+Sequence ID: MW086530.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC28/Ramtha, complete genome
+Sequence ID: MW086529.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC25/Ramtha, complete genome
+Sequence ID: MW086528.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MERS-CoV/JC17/Azraq, complete genome
+Sequence ID: MW086527.1 Length: 29786
+Range 1: 13409 to 13419
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13409  ACTGATGTCGT  13419
+
+
+
+
+Range 2: 8499 to 8508
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8499  GTACTGATGT  8508
+
+
+
+
+Range 3: 14232 to 14240
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14232  GTACTGATG  14240
+
+
+
+
+Range 4: 21394 to 21402
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21394  TACTGATGT  21402
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16025_13 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675269.1 Length: 29894
+Range 1: 13357 to 13367
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13357  ACTGATGTCGT  13367
+
+
+
+
+Range 2: 8447 to 8456
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8447  GTACTGATGT  8456
+
+
+
+
+Range 3: 14180 to 14188
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14180  GTACTGATG  14188
+
+
+
+
+Range 4: 21342 to 21350
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21342  TACTGATGT  21350
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16025_12 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, and ORF4b genes, complete cds; ORF5 and M protein genes, partial cds; and N protein and ORF8b genes, complete cds
+Sequence ID: MT675268.1 Length: 28661
+Range 1: 12124 to 12134
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  12124  ACTGATGTCGT  12134
+
+
+
+
+Range 2: 20109 to 20117
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  20109  TACTGATGT  20117
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_21 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, ORF4b, and ORF5 genes, complete cds; E protein and M protein genes, partial cds; and N protein and ORF8b genes, complete cds
+Sequence ID: MT675266.1 Length: 29200
+Range 1: 12567 to 12577
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  12567  ACTGATGTCGT  12577
+
+
+
+
+Range 2: 13390 to 13398
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  13390  GTACTGATG  13398
+
+
+
+
+Range 3: 20552 to 20560
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  20552  TACTGATGT  20560
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_20 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675265.1 Length: 29989
+Range 1: 13361 to 13371
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13361  ACTGATGTCGT  13371
+
+
+
+
+Range 2: 8451 to 8460
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8451  GTACTGATGT  8460
+
+
+
+
+Range 3: 14184 to 14192
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14184  GTACTGATG  14192
+
+
+
+
+Range 4: 21346 to 21354
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21346  TACTGATGT  21354
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_19 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, ORF4b, and ORF5 genes, complete cds; E protein and M protein genes, partial cds; and N protein and ORF8b genes, complete cds
+Sequence ID: MT675264.1 Length: 27748
+Range 1: 11211 to 11221
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  11211  ACTGATGTCGT  11221
+
+
+
+
+Range 2: 12034 to 12042
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  12034  GTACTGATG  12042
+
+
+
+
+Range 3: 19196 to 19204
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  19196  TACTGATGT  19204
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_18 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675263.1 Length: 29755
+Range 1: 13218 to 13228
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13218  ACTGATGTCGT  13228
+
+
+
+
+Range 2: 14041 to 14049
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14041  GTACTGATG  14049
+
+
+
+
+Range 3: 21203 to 21211
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21203  TACTGATGT  21211
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_17 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675262.1 Length: 30027
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_16 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675261.1 Length: 30028
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16024_15 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675260.1 Length: 30118
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_7 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, and E protein genes, complete cds; M protein gene, partial cds; and N protein and ORF8b genes, complete cds
+Sequence ID: MT675259.1 Length: 29898
+Range 1: 13361 to 13371
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13361  ACTGATGTCGT  13371
+
+
+
+
+Range 2: 8451 to 8460
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8451  GTACTGATGT  8460
+
+
+
+
+Range 3: 14184 to 14192
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14184  GTACTGATG  14192
+
+
+
+
+Range 4: 21346 to 21354
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21346  TACTGATGT  21354
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_6 ORF1ab and ORF1a genes, partial cds; S protein, ORF3, ORF4a, and ORF4b genes, complete cds; ORF5 and M protein genes, partial cds; and N protein and ORF8b genes, complete cds
+Sequence ID: MT675258.1 Length: 29545
+Range 1: 13163 to 13173
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13163  ACTGATGTCGT  13173
+
+
+
+
+Range 2: 13986 to 13994
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  13986  GTACTGATG  13994
+
+
+
+
+Range 3: 21148 to 21156
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21148  TACTGATGT  21156
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_5 ORF1ab and ORF1a genes, partial cds; and S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675257.1 Length: 29675
+Range 1: 13138 to 13148
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13138  ACTGATGTCGT  13148
+
+
+
+
+Range 2: 8228 to 8237
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8228  GTACTGATGT  8237
+
+
+
+
+Range 3: 13961 to 13969
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  13961  GTACTGATG  13969
+
+
+
+
+Range 4: 21123 to 21131
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21123  TACTGATGT  21131
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_4 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675256.1 Length: 30104
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_3 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675255.1 Length: 29898
+Range 1: 13361 to 13371
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13361  ACTGATGTCGT  13371
+
+
+
+
+Range 2: 8451 to 8460
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8451  GTACTGATGT  8460
+
+
+
+
+Range 3: 14184 to 14192
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14184  GTACTGATG  14192
+
+
+
+
+Range 4: 21346 to 21354
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21346  TACTGATGT  21354
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_2 ORF1ab, ORF1a, S protein, ORF3, ORF4a, and ORF4 genes, complete cds; ORF5, M protein, and N protein genes, partial cds; and ORF8b gene, complete cds
+Sequence ID: MT675254.1 Length: 29474
+Range 1: 13361 to 13371
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13361  ACTGATGTCGT  13371
+
+
+
+
+Range 2: 8451 to 8460
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8451  GTACTGATGT  8460
+
+
+
+
+Range 3: 14184 to 14192
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14184  GTACTGATG  14192
+
+
+
+
+Range 4: 21346 to 21354
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21346  TACTGATGT  21354
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate 16023_1 ORF1ab, ORF1a, S protein, ORF3, ORF4a, ORF4b, ORF5, E protein, M protein, N protein, and ORF8b genes, complete cds
+Sequence ID: MT675253.1 Length: 30009
+Range 1: 13472 to 13482
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13472  ACTGATGTCGT  13482
+
+
+
+
+Range 2: 8562 to 8571
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8562  GTACTGATGT  8571
+
+
+
+
+Range 3: 14295 to 14303
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14295  GTACTGATG  14303
+
+
+
+
+Range 4: 21457 to 21465
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21457  TACTGATGT  21465
+
+
+
+
+>Middle East respiratory syndrome-related coronavirus isolate MA_30, complete genome
+Sequence ID: MT576585.1 Length: 30115
+Range 1: 13490 to 13500
+
+Score:22.3 bits(11), Expect:33, 
+Identities:11/11(100%),  Gaps:0/11(0%), Strand: Plus/Plus
+
+Query  3      ACTGATGTCGT  13
+              |||||||||||
+Sbjct  13490  ACTGATGTCGT  13500
+
+
+
+
+Range 2: 8580 to 8589
+
+Score:20.3 bits(10), Expect:129, 
+Identities:10/10(100%),  Gaps:0/10(0%), Strand: Plus/Plus
+
+Query  1     GTACTGATGT  10
+             ||||||||||
+Sbjct  8580  GTACTGATGT  8589
+
+
+
+
+Range 3: 14313 to 14321
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  1      GTACTGATG  9
+              |||||||||
+Sbjct  14313  GTACTGATG  14321
+
+
+
+
+Range 4: 21475 to 21483
+
+Score:18.3 bits(9), Expect:511, 
+Identities:9/9(100%),  Gaps:0/9(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGT  10
+              |||||||||
+Sbjct  21475  TACTGATGT  21483
+
+
+
+
+
+
+
+		
+
+

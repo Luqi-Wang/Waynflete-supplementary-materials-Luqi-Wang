@@ -1,0 +1,4128 @@
+RID: 8ZTD8GS2013	
+Job Title: GUACUGAUGUCGUAUACAGGGC against H. sapiens		
+Program: BLASTN 
+Query: None ID: lcl|Query_8209(nucleic acid) Length: 22
+Database: nt Nucleotide collection (nt)
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens family with sequence similarity 230 member I...      Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 1598       NR_165490.1      
+Homo sapiens family with sequence similarity 230 member I...      Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 1495       NR_165489.1      
+Homo sapiens family with sequence similarity 230 member I...      Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 1505       NR_165488.1      
+Homo sapiens family with sequence similarity 230 member I...      Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 1578       NR_110539.2      
+Homo sapiens chromosome 22 clone CH17-429E15, complete sequence   Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 220256     AC255379.1       
+Homo sapiens isolate CHM13 chromosome 22                          Homo sapiens    human           9606       30.2   901   81%   29    100.00 51324926   CP068256.2       
+Homo sapiens DNA, chromosome 22, nearly complete genome           Homo sapiens    human           9606       30.2   338   81%   29    100.00 46684173   AP023482.1       
+Homo sapiens hypothetical LOC388882, mRNA (cDNA clone MGC:4630... Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 1626       BC036910.1       
+Homo sapiens genomic DNA, chromosome 22q11.2, clone KB1269D1      Homo sapiens    human           9606       30.2   30.2  68%   29    100.00 186421     AP000344.1       
+Homo sapiens family with sequence similarity 230-like...          Homo sapiens    human           9606       28.2   112   63%   114   100.00 4002       NR_166643.1      
+Homo sapiens family with sequence similarity 230 member D...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 2984       NR_136570.2      
+Homo sapiens family with sequence similarity 230 member E...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3174       NR_165635.1      
+Homo sapiens family with sequence similarity 230 member H...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3106       NR_136559.2      
+Homo sapiens family with sequence similarity 230 member J...      Homo sapiens    human           9606       28.2   141   63%   114   100.00 3536       NR_165634.1      
+Homo sapiens family with sequence similarity 230 member F...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3191       NR_136571.2      
+Homo sapiens family with sequence similarity 230 member A...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3186       NR_136560.2      
+Homo sapiens family with sequence similarity 230 member A...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3202       NR_165629.1      
+Homo sapiens family with sequence similarity 230 member B...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3464       NR_165621.1      
+Homo sapiens uncharacterized LOC107987394 (LOC107987394),...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3282       NR_165501.2      
+Homo sapiens uncharacterized LOC107987394 (LOC107987394),...      Homo sapiens    human           9606       28.2   112   63%   114   100.00 3309       NR_165500.2      
+Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 7385       NM_001142269.4   
+Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 7556       NM_000821.7      
+Homo sapiens unk zinc finger (UNK), transcript variant 1, mRNA    Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  3890       NM_001080419.3   
+Homo sapiens chromosome 22 clone CH17-50J9, complete sequence     Homo sapiens    human           9606       28.2   112   63%   114   100.00 229172     AC277850.1       
+Homo sapiens chromosome 22 clone CH17-369L23, complete sequence   Homo sapiens    human           9606       28.2   112   63%   114   100.00 225459     AC277836.1       
+Homo sapiens chromosome 22 clone CH17-291K13, complete sequence   Homo sapiens    human           9606       28.2   197   63%   114   100.00 205795     AC277824.1       
+Homo sapiens chromosome 22 clone CH17-232B17, complete sequence   Homo sapiens    human           9606       28.2   225   63%   114   100.00 245081     AC277820.1       
+Homo sapiens chromosome 22 clone CH17-113F14, complete sequence   Homo sapiens    human           9606       28.2   56.5  63%   114   100.00 21931      AC277816.1       
+Homo sapiens chromosome 22 clone CH17-137E11, complete sequence   Homo sapiens    human           9606       28.2   112   63%   114   100.00 199817     AC277806.1       
+Homo sapiens cadherin 13 (CDH13), RefSeqGene on chromosome 16     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 1176817    NG_052819.1      
+Homo sapiens BAC clone CH17-292N1 from chromosome 22, complete... Homo sapiens    human           9606       28.2   112   63%   114   100.00 221835     AC270231.1       
+Homo sapiens BAC clone CH17-409N24 from chromosome 22, complet... Homo sapiens    human           9606       28.2   223   77%   114   100.00 197504     AC270110.2       
+Homo sapiens BAC clone CH17-73B18 from chromosome 22, complete... Homo sapiens    human           9606       28.2   139   77%   114   100.00 195638     AC270092.1       
+Homo sapiens clone BMMD-RP3_181G22, complete sequence             Homo sapiens    human           9606       28.2   197   63%   114   100.00 166140     KJ155484.1       
+Homo sapiens clone BMMD-CH17_210L21, complete sequence            Homo sapiens    human           9606       28.2   112   63%   114   100.00 236556     KJ155483.1       
+Homo sapiens clone BMMD-RP3_329B9, complete sequence              Homo sapiens    human           9606       28.2   112   63%   114   100.00 128937     KJ155482.1       
+Homo sapiens clone BMMD-RP11_249J8, complete sequence             Homo sapiens    human           9606       28.2   223   77%   114   100.00 175533     KJ155478.1       
+Homo sapiens clone BMMD-CH17_116O7, complete sequence             Homo sapiens    human           9606       28.2   169   63%   114   100.00 213031     KJ155477.1       
+Homo sapiens clone BMMD-RP13_68B7, complete sequence              Homo sapiens    human           9606       28.2   112   63%   114   100.00 206327     KJ155476.1       
+Homo sapiens clone BMMD-RP11_690P21, complete sequence            Homo sapiens    human           9606       28.2   112   63%   114   100.00 190334     KJ155475.1       
+Homo sapiens clone BMMD-RP11_130B16, complete sequence            Homo sapiens    human           9606       28.2   112   63%   114   100.00 188886     KJ155474.1       
+Homo sapiens clone BMMD-CTD_3048O14, complete sequence            Homo sapiens    human           9606       28.2   139   77%   114   100.00 139025     KJ155473.1       
+Homo sapiens clone BMMD-RP13_49D18, complete sequence             Homo sapiens    human           9606       28.2   223   77%   114   100.00 195344     KJ155472.1       
+PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX),...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 6709       XM_047443919.1   
+PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX),...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 7379       XM_017003803.3   
+PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX),...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 7550       XM_005264259.6   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  3982       XM_011525400.2   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  4825       XM_047436966.1   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  6533       XM_047436965.1   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  4991       XM_017025249.2   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  3854       XM_047436964.1   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  8744       XM_047436963.1   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  9787       XM_047436962.1   
+PREDICTED: Homo sapiens unk zinc finger (UNK), transcript...      Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  8899       XM_017025248.2   
+Homo sapiens isolate CHM13 chromosome 21                          Homo sapiens    human           9606       28.2   80.8  86%   114   100.00 45090682   CP068257.2       
+Homo sapiens isolate CHM13 chromosome 17                          Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  84276897   CP068261.2       
+Homo sapiens isolate CHM13 chromosome 16                          Homo sapiens    human           9606       28.2   159   86%   114   100.00 96330374   CP068262.2       
+Homo sapiens DNA, sequence_id: unplaced_0177                      Homo sapiens    human           9606       28.2   112   63%   114   100.00 60365      AP023662.1       
+Homo sapiens DNA, chromosome 21, nearly complete genome           Homo sapiens    human           9606       28.2   80.8  86%   114   100.00 44550604   AP023481.1       
+Homo sapiens DNA, chromosome 17, nearly complete genome           Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  80688777   AP023477.1       
+Homo sapiens DNA, chromosome 16, nearly complete genome           Homo sapiens    human           9606       28.2   80.8  86%   114   100.00 94690957   AP023476.1       
+Homo sapiens chromosome unknown clone VMRC59-305D15, complete...  Homo sapiens    human           9606       28.2   197   63%   114   100.00 166831     AC279656.1       
+Homo sapiens chromosome unknown clone VMRC59-218D02, complete...  Homo sapiens    human           9606       28.2   84.7  63%   114   100.00 142752     AC279547.1       
+Homo sapiens gamma-glutamyl carboxylase (GGCX), RefSeqGene...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 23680      NG_011811.2      
+Homo sapiens FOSMID clone COR2A-DD0002S1BNU_G5 from chromosome... Homo sapiens    human           9606       28.2   56.5  63%   114   100.00 33214      AC238580.2       
+Human DNA sequence from clone CH507-152C13 on chromosome 21,...   Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 152923     FP236240.8       
+Homo sapiens cystathionine beta-synthase (CBS), RefSeqGene...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 29740      NG_008938.1      
+Homo sapiens gamma-glutymyl carboxylase mRNA, complete cds        Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 2280       EU847509.1       
+Homo sapiens cDNA FLJ53359 complete cds, highly similar to...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 2256       AK297397.1       
+Homo sapiens cDNA FLJ53640 complete cds, highly similar to...     Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 2604       AK298982.1       
+Homo sapiens cDNA FLJ58650 complete cds                           Homo sapiens    human           9606       28.2   112   63%   114   100.00 3186       AK302783.1       
+Homo sapiens cDNA FLJ61480 complete cds                           Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 1753       AK302545.1       
+Homo sapiens cDNA, FLJ93613, highly similar to Homo sapiens...    Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 2351       AK313126.1       
+Homo sapiens FOSMID clone ABC9-45921600J15 from chromosome 2,...  Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 37816      AC207174.3       
+Homo sapiens gamma-glutamyl carboxylase (GGCX) gene, complete cds Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 16504      EU135733.1       
+Homo sapiens mRNA for Vitamin K-dependent gamma-carboxylase...    Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 2518       AK225663.1       
+Human DNA sequence from clone RP11-248J23 on chromosome 10,...    Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 113212     AL513355.16      
+Human DNA sequence from clone RP11-136C6 on chromosome 6,...      Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 101841     AL451185.14      
+Human DNA sequence from clone RP11-52L5 on chromosome 13,...      Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 157302     AL445209.4       
+Human DNA sequence from clone RP11-280J7 on chromosome 13,...     Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  127641     AL354827.5       
+Homo sapiens cDNA FLJ26629 fis, clone MPC05371, highly similar... Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 1838       AK130139.1       
+Homo sapiens unkempt homolog (Drosophila), mRNA (cDNA clone...    Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  3856       BC053362.1       
+Homo sapiens chromosome 22 clone pac699j1 map 22q12, complete...  Homo sapiens    human           9606       28.2   112   63%   114   100.00 98557      AC008103.29      
+Homo sapiens chromosome 22 clone b659m11 map 22q11, complete...   Homo sapiens    human           9606       28.2   112   63%   114   100.00 150754     AC023491.23      
+Homo sapiens chromosome 22 clone b562f10 map 22q11, complete...   Homo sapiens    human           9606       28.2   56.5  63%   114   100.00 182617     AC007731.16      
+Homo sapiens chromosome 22 clone p413m7 map 22q11, complete...    Homo sapiens    human           9606       28.2   112   63%   114   100.00 140876     AC009288.15      
+Homo sapiens chromosome 22 clone b291 map 22q11, complete...      Homo sapiens    human           9606       28.2   197   63%   114   100.00 175358     AC007981.47      
+Homo sapiens chromosome 22 clone bac519d21 map 22q11, complete... Homo sapiens    human           9606       28.2   139   77%   114   100.00 170102     AC008079.24      
+Homo sapiens genomic DNA; cDNA DKFZp667O1919 (from clone...       Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  2659       AL832312.1       
+Homo sapiens BAC clone RP11-374C5 from 2, complete sequence       Homo sapiens    human           9606       28.2   28.2  81%   114   94.44  155764     AC011238.8       
+Homo sapiens BAC clone RP11-513O19 from 2, complete sequence      Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 175694     AC016753.9       
+Homo sapiens chromosome 5 clone CTD-2075D11, complete sequence    Homo sapiens    human           9606       28.2   28.2  63%   114   100.00 159766     AC010388.6       
+Homo sapiens chromosome 22 clone pac995o6 map 22q11, complete...  Homo sapiens    human           9606       28.2   112   63%   114   100.00 145598     AC008132.35      
+Homo sapiens chromosome 22 clone b379n11 map 22q11, complete...   Homo sapiens    human           9606       28.2   112   63%   114   100.00 180884     AC008018.20      
+Homo sapiens chromosome 22 clone b33l19 map 22q11, complete...    Homo sapiens    human           9606       28.2   112   63%   114   100.00 176051     AC023490.5       
+Homo sapiens chromosome 22 clone b293 map 22q11, complete...      Homo sapiens    human           9606       28.2   84.7  63%   114   100.00 122364     AC007324.55      
+Homo sapiens 22q11 PAC Clone Clone p52f6 In DGCR Region,...       Homo sapiens    human           9606       28.2   56.5  63%   114   100.00 192592     AC005500.2       
+Homo sapiens chromosome 22 clone c31p7 map 22q11, complete...     Homo sapiens    human           9606       28.2   112   63%   114   100.00 28862      AC012398.4       
+Homo sapiens chromosome 22 clone chk89 map 22q11, complete...     Homo sapiens    human           9606       28.2   56.5  63%   114   100.00 38849      AC024070.2       
+
+Alignments:
+
+>Homo sapiens family with sequence similarity 230 member I (FAM230I), transcript variant 4, long non-coding RNA
+Sequence ID: NR_165490.1 Length: 1598
+Range 1: 667 to 681
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACAG  19
+            |||||||||||||||
+Sbjct  681  TGATGTCGTATACAG  667
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member I (FAM230I), transcript variant 3, long non-coding RNA
+Sequence ID: NR_165489.1 Length: 1495
+Range 1: 667 to 681
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACAG  19
+            |||||||||||||||
+Sbjct  681  TGATGTCGTATACAG  667
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member I (FAM230I), transcript variant 2, long non-coding RNA
+Sequence ID: NR_165488.1 Length: 1505
+Range 1: 636 to 650
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACAG  19
+            |||||||||||||||
+Sbjct  650  TGATGTCGTATACAG  636
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member I (FAM230I), transcript variant 1, long non-coding RNA
+Sequence ID: NR_110539.2 Length: 1578
+Range 1: 667 to 681
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACAG  19
+            |||||||||||||||
+Sbjct  681  TGATGTCGTATACAG  667
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-429E15, complete sequence
+Sequence ID: AC255379.1 Length: 220256
+Range 1: 149717 to 149731
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  5       TGATGTCGTATACAG  19
+               |||||||||||||||
+Sbjct  149717  TGATGTCGTATACAG  149731
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 22
+Sequence ID: CP068256.2 Length: 51324926
+Range 1: 23893606 to 23893620
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  5         TGATGTCGTATACAG  19
+                 |||||||||||||||
+Sbjct  23893606  TGATGTCGTATACAG  23893620
+
+
+
+
+Range 2: 18856804 to 18856817
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18856804  GATGTCGTATACAG  18856817
+
+
+
+
+Range 3: 18857119 to 18857132
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18857119  GATGTCGTATACAG  18857132
+
+
+
+
+Range 4: 18857227 to 18857240
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18857227  GATGTCGTATACAG  18857240
+
+
+
+
+Range 5: 18857725 to 18857738
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18857725  GATGTCGTATACAG  18857738
+
+
+
+
+Range 6: 18926859 to 18926872
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18926872  GATGTCGTATACAG  18926859
+
+
+
+
+Range 7: 18927353 to 18927366
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18927366  GATGTCGTATACAG  18927353
+
+
+
+
+Range 8: 18927461 to 18927474
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  18927474  GATGTCGTATACAG  18927461
+
+
+
+
+Range 9: 19050263 to 19050276
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19050263  GATGTCGTATACAG  19050276
+
+
+
+
+Range 10: 19050578 to 19050591
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19050578  GATGTCGTATACAG  19050591
+
+
+
+
+Range 11: 19050686 to 19050699
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19050686  GATGTCGTATACAG  19050699
+
+
+
+
+Range 12: 19051183 to 19051196
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19051183  GATGTCGTATACAG  19051196
+
+
+
+
+Range 13: 19123547 to 19123560
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19123560  GATGTCGTATACAG  19123547
+
+
+
+
+Range 14: 19124045 to 19124058
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19124058  GATGTCGTATACAG  19124045
+
+
+
+
+Range 15: 19124153 to 19124166
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19124166  GATGTCGTATACAG  19124153
+
+
+
+
+Range 16: 19124468 to 19124481
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19124481  GATGTCGTATACAG  19124468
+
+
+
+
+Range 17: 19246969 to 19246982
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19246969  GATGTCGTATACAG  19246982
+
+
+
+
+Range 18: 19247284 to 19247297
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19247284  GATGTCGTATACAG  19247297
+
+
+
+
+Range 19: 19247392 to 19247405
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19247392  GATGTCGTATACAG  19247405
+
+
+
+
+Range 20: 19247893 to 19247906
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  19247893  GATGTCGTATACAG  19247906
+
+
+
+
+Range 21: 20766385 to 20766398
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  20766398  GATGTCGTATACAG  20766385
+
+
+
+
+Range 22: 20766879 to 20766892
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  20766892  GATGTCGTATACAG  20766879
+
+
+
+
+Range 23: 21594207 to 21594220
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21594220  GATGTCGTATACAG  21594207
+
+
+
+
+Range 24: 21594702 to 21594715
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21594715  GATGTCGTATACAG  21594702
+
+
+
+
+Range 25: 21594810 to 21594823
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21594823  GATGTCGTATACAG  21594810
+
+
+
+
+Range 26: 21595125 to 21595138
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21595138  GATGTCGTATACAG  21595125
+
+
+
+
+Range 27: 21717478 to 21717491
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21717478  GATGTCGTATACAG  21717491
+
+
+
+
+Range 28: 21717793 to 21717806
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21717793  GATGTCGTATACAG  21717806
+
+
+
+
+Range 29: 21717901 to 21717914
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21717901  GATGTCGTATACAG  21717914
+
+
+
+
+Range 30: 21718396 to 21718409
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  21718396  GATGTCGTATACAG  21718409
+
+
+
+
+Range 31: 17097625 to 17097637
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5         TGATGTCGTATAC  17
+                 |||||||||||||
+Sbjct  17097637  TGATGTCGTATAC  17097625
+
+
+
+
+Range 32: 18839815 to 18839827
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10        TCGTATACAGGGC  22
+                 |||||||||||||
+Sbjct  18839827  TCGTATACAGGGC  18839815
+
+
+
+
+>Homo sapiens DNA, chromosome 22, nearly complete genome
+Sequence ID: AP023482.1 Length: 46684173
+Range 1: 19166295 to 19166309
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  5         TGATGTCGTATACAG  19
+                 |||||||||||||||
+Sbjct  19166295  TGATGTCGTATACAG  19166309
+
+
+
+
+Range 2: 14736336 to 14736349
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14736336  GATGTCGTATACAG  14736349
+
+
+
+
+Range 3: 14736651 to 14736664
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14736651  GATGTCGTATACAG  14736664
+
+
+
+
+Range 4: 14736759 to 14736772
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14736759  GATGTCGTATACAG  14736772
+
+
+
+
+Range 5: 14737257 to 14737270
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14737257  GATGTCGTATACAG  14737270
+
+
+
+
+Range 6: 14829840 to 14829853
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14829840  GATGTCGTATACAG  14829853
+
+
+
+
+Range 7: 14830155 to 14830168
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14830155  GATGTCGTATACAG  14830168
+
+
+
+
+Range 8: 14830263 to 14830276
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14830263  GATGTCGTATACAG  14830276
+
+
+
+
+Range 9: 14830762 to 14830775
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  14830762  GATGTCGTATACAG  14830775
+
+
+
+
+Range 10: 16331124 to 16331137
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  16331137  GATGTCGTATACAG  16331124
+
+
+
+
+Range 11: 16331618 to 16331631
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6         GATGTCGTATACAG  19
+                 ||||||||||||||
+Sbjct  16331631  GATGTCGTATACAG  16331618
+
+
+
+
+Range 12: 14719363 to 14719375
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10        TCGTATACAGGGC  22
+                 |||||||||||||
+Sbjct  14719375  TCGTATACAGGGC  14719363
+
+
+
+
+>Homo sapiens hypothetical LOC388882, mRNA (cDNA clone MGC:46300 IMAGE:5164270), complete cds
+Sequence ID: BC036910.1 Length: 1626
+Range 1: 667 to 681
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACAG  19
+            |||||||||||||||
+Sbjct  681  TGATGTCGTATACAG  667
+
+
+
+
+>Homo sapiens genomic DNA, chromosome 22q11.2, clone KB1269D1
+Sequence ID: AP000344.1 Length: 186421
+Range 1: 147728 to 147742
+
+Score:30.2 bits(15), Expect:29, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  5       TGATGTCGTATACAG  19
+               |||||||||||||||
+Sbjct  147728  TGATGTCGTATACAG  147742
+
+
+
+
+>Homo sapiens family with sequence similarity 230-like (LOC107987389), long non-coding RNA
+Sequence ID: NR_166643.1 Length: 4002
+Range 1: 2068 to 2081
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2081  GATGTCGTATACAG  2068
+
+
+
+
+Range 2: 2563 to 2576
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2576  GATGTCGTATACAG  2563
+
+
+
+
+Range 3: 2671 to 2684
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2684  GATGTCGTATACAG  2671
+
+
+
+
+Range 4: 2986 to 2999
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2999  GATGTCGTATACAG  2986
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member D (FAM230D), long non-coding RNA
+Sequence ID: NR_136570.2 Length: 2984
+Range 1: 1047 to 1060
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1060  GATGTCGTATACAG  1047
+
+
+
+
+Range 2: 1545 to 1558
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1558  GATGTCGTATACAG  1545
+
+
+
+
+Range 3: 1653 to 1666
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1666  GATGTCGTATACAG  1653
+
+
+
+
+Range 4: 1968 to 1981
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1981  GATGTCGTATACAG  1968
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member E (FAM230E), transcript variant 1, long non-coding RNA
+Sequence ID: NR_165635.1 Length: 3174
+Range 1: 1239 to 1252
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1252  GATGTCGTATACAG  1239
+
+
+
+
+Range 2: 1736 to 1749
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1749  GATGTCGTATACAG  1736
+
+
+
+
+Range 3: 1844 to 1857
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1857  GATGTCGTATACAG  1844
+
+
+
+
+Range 4: 2159 to 2172
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2172  GATGTCGTATACAG  2159
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member H (FAM230H), long non-coding RNA
+Sequence ID: NR_136559.2 Length: 3106
+Range 1: 1178 to 1191
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1191  GATGTCGTATACAG  1178
+
+
+
+
+Range 2: 1673 to 1686
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1686  GATGTCGTATACAG  1673
+
+
+
+
+Range 3: 1781 to 1794
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1794  GATGTCGTATACAG  1781
+
+
+
+
+Range 4: 2096 to 2109
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2109  GATGTCGTATACAG  2096
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member J (FAM230J), transcript variant 1, long non-coding RNA
+Sequence ID: NR_165634.1 Length: 3536
+Range 1: 1290 to 1303
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1303  GATGTCGTATACAG  1290
+
+
+
+
+Range 2: 1605 to 1618
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1618  GATGTCGTATACAG  1605
+
+
+
+
+Range 3: 2100 to 2113
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2113  GATGTCGTATACAG  2100
+
+
+
+
+Range 4: 2208 to 2221
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2221  GATGTCGTATACAG  2208
+
+
+
+
+Range 5: 2520 to 2533
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2533  GATGTCGTATACAG  2520
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member F (FAM230F), long non-coding RNA
+Sequence ID: NR_136571.2 Length: 3191
+Range 1: 1258 to 1271
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1271  GATGTCGTATACAG  1258
+
+
+
+
+Range 2: 1752 to 1765
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1765  GATGTCGTATACAG  1752
+
+
+
+
+Range 3: 1860 to 1873
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1873  GATGTCGTATACAG  1860
+
+
+
+
+Range 4: 2175 to 2188
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2188  GATGTCGTATACAG  2175
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member A (FAM230A), transcript variant 2, long non-coding RNA
+Sequence ID: NR_136560.2 Length: 3186
+Range 1: 1250 to 1263
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1263  GATGTCGTATACAG  1250
+
+
+
+
+Range 2: 1748 to 1761
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1761  GATGTCGTATACAG  1748
+
+
+
+
+Range 3: 1856 to 1869
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1869  GATGTCGTATACAG  1856
+
+
+
+
+Range 4: 2171 to 2184
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2184  GATGTCGTATACAG  2171
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member A (FAM230A), transcript variant 1, long non-coding RNA
+Sequence ID: NR_165629.1 Length: 3202
+Range 1: 1266 to 1279
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1279  GATGTCGTATACAG  1266
+
+
+
+
+Range 2: 1764 to 1777
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1777  GATGTCGTATACAG  1764
+
+
+
+
+Range 3: 1872 to 1885
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1885  GATGTCGTATACAG  1872
+
+
+
+
+Range 4: 2187 to 2200
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2200  GATGTCGTATACAG  2187
+
+
+
+
+>Homo sapiens family with sequence similarity 230 member B (FAM230B), long non-coding RNA
+Sequence ID: NR_165621.1 Length: 3464
+Range 1: 1530 to 1543
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1543  GATGTCGTATACAG  1530
+
+
+
+
+Range 2: 2025 to 2038
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2038  GATGTCGTATACAG  2025
+
+
+
+
+Range 3: 2133 to 2146
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2146  GATGTCGTATACAG  2133
+
+
+
+
+Range 4: 2448 to 2461
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2461  GATGTCGTATACAG  2448
+
+
+
+
+>Homo sapiens uncharacterized LOC107987394 (LOC107987394), transcript variant 2, long non-coding RNA
+Sequence ID: NR_165501.2 Length: 3282
+Range 1: 1342 to 1355
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1355  GATGTCGTATACAG  1342
+
+
+
+
+Range 2: 1843 to 1856
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1856  GATGTCGTATACAG  1843
+
+
+
+
+Range 3: 1951 to 1964
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1964  GATGTCGTATACAG  1951
+
+
+
+
+Range 4: 2266 to 2279
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2279  GATGTCGTATACAG  2266
+
+
+
+
+>Homo sapiens uncharacterized LOC107987394 (LOC107987394), transcript variant 1, long non-coding RNA
+Sequence ID: NR_165500.2 Length: 3309
+Range 1: 1369 to 1382
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1382  GATGTCGTATACAG  1369
+
+
+
+
+Range 2: 1870 to 1883
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1883  GATGTCGTATACAG  1870
+
+
+
+
+Range 3: 1978 to 1991
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1991  GATGTCGTATACAG  1978
+
+
+
+
+Range 4: 2293 to 2306
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2306  GATGTCGTATACAG  2293
+
+
+
+
+>Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript variant 2, mRNA
+Sequence ID: NM_001142269.4 Length: 7385
+Range 1: 1660 to 1673
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1673  TGATGTCGTATACA  1660
+
+
+
+
+>Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript variant 1, mRNA
+Sequence ID: NM_000821.7 Length: 7556
+Range 1: 1831 to 1844
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1844  TGATGTCGTATACA  1831
+
+
+
+
+>Homo sapiens unk zinc finger (UNK), transcript variant 1, mRNA
+Sequence ID: NM_001080419.3 Length: 3890
+Range 1: 549 to 566
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4    CTGATGTCGTATACAGGG  21
+            ||||||||||| ||||||
+Sbjct  566  CTGATGTCGTAGACAGGG  549
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-50J9, complete sequence
+Sequence ID: AC277850.1 Length: 229172
+Range 1: 106156 to 106169
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  106169  GATGTCGTATACAG  106156
+
+
+
+
+Range 2: 106651 to 106664
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  106664  GATGTCGTATACAG  106651
+
+
+
+
+Range 3: 106759 to 106772
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  106772  GATGTCGTATACAG  106759
+
+
+
+
+Range 4: 107074 to 107087
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  107087  GATGTCGTATACAG  107074
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-369L23, complete sequence
+Sequence ID: AC277836.1 Length: 225459
+Range 1: 56833 to 56846
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  56833  GATGTCGTATACAG  56846
+
+
+
+
+Range 2: 57148 to 57161
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  57148  GATGTCGTATACAG  57161
+
+
+
+
+Range 3: 57256 to 57269
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  57256  GATGTCGTATACAG  57269
+
+
+
+
+Range 4: 57751 to 57764
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  57751  GATGTCGTATACAG  57764
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-291K13, complete sequence
+Sequence ID: AC277824.1 Length: 205795
+Range 1: 26186 to 26199
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26199  GATGTCGTATACAG  26186
+
+
+
+
+Range 2: 26684 to 26697
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26697  GATGTCGTATACAG  26684
+
+
+
+
+Range 3: 26792 to 26805
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26805  GATGTCGTATACAG  26792
+
+
+
+
+Range 4: 27107 to 27120
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  27120  GATGTCGTATACAG  27107
+
+
+
+
+Range 5: 149921 to 149934
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  149921  GATGTCGTATACAG  149934
+
+
+
+
+Range 6: 150029 to 150042
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  150029  GATGTCGTATACAG  150042
+
+
+
+
+Range 7: 150523 to 150536
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  150523  GATGTCGTATACAG  150536
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-232B17, complete sequence
+Sequence ID: AC277820.1 Length: 245081
+Range 1: 9388 to 9401
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  9401  GATGTCGTATACAG  9388
+
+
+
+
+Range 2: 9883 to 9896
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  9896  GATGTCGTATACAG  9883
+
+
+
+
+Range 3: 9991 to 10004
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10004  GATGTCGTATACAG  9991
+
+
+
+
+Range 4: 10306 to 10319
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10319  GATGTCGTATACAG  10306
+
+
+
+
+Range 5: 132604 to 132617
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  132604  GATGTCGTATACAG  132617
+
+
+
+
+Range 6: 132919 to 132932
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  132919  GATGTCGTATACAG  132932
+
+
+
+
+Range 7: 133027 to 133040
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  133027  GATGTCGTATACAG  133040
+
+
+
+
+Range 8: 133522 to 133535
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  133522  GATGTCGTATACAG  133535
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-113F14, complete sequence
+Sequence ID: AC277816.1 Length: 21931
+Range 1: 12401 to 12414
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  12401  GATGTCGTATACAG  12414
+
+
+
+
+Range 2: 12558 to 12571
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  12558  GATGTCGTATACAG  12571
+
+
+
+
+>Homo sapiens chromosome 22 clone CH17-137E11, complete sequence
+Sequence ID: AC277806.1 Length: 199817
+Range 1: 35565 to 35578
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  35578  GATGTCGTATACAG  35565
+
+
+
+
+Range 2: 36063 to 36076
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36076  GATGTCGTATACAG  36063
+
+
+
+
+Range 3: 36171 to 36184
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36184  GATGTCGTATACAG  36171
+
+
+
+
+Range 4: 36486 to 36499
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36499  GATGTCGTATACAG  36486
+
+
+
+
+>Homo sapiens cadherin 13 (CDH13), RefSeqGene on chromosome 16
+Sequence ID: NG_052819.1 Length: 1176817
+Range 1: 254593 to 254606
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  7       ATGTCGTATACAGG  20
+               ||||||||||||||
+Sbjct  254606  ATGTCGTATACAGG  254593
+
+
+
+
+>Homo sapiens BAC clone CH17-292N1 from chromosome 22, complete sequence
+Sequence ID: AC270231.1 Length: 221835
+Range 1: 59547 to 59560
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  59560  GATGTCGTATACAG  59547
+
+
+
+
+Range 2: 60045 to 60058
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  60058  GATGTCGTATACAG  60045
+
+
+
+
+Range 3: 60153 to 60166
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  60166  GATGTCGTATACAG  60153
+
+
+
+
+Range 4: 60468 to 60481
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  60481  GATGTCGTATACAG  60468
+
+
+
+
+>Homo sapiens BAC clone CH17-409N24 from chromosome 22, complete sequence
+Sequence ID: AC270110.2 Length: 197504
+Range 1: 81740 to 81753
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  81740  GATGTCGTATACAG  81753
+
+
+
+
+Range 2: 81848 to 81861
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  81848  GATGTCGTATACAG  81861
+
+
+
+
+Range 3: 82342 to 82355
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  82342  GATGTCGTATACAG  82355
+
+
+
+
+Range 4: 151586 to 151599
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  151599  GATGTCGTATACAG  151586
+
+
+
+
+Range 5: 152084 to 152097
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  152097  GATGTCGTATACAG  152084
+
+
+
+
+Range 6: 152192 to 152205
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  152205  GATGTCGTATACAG  152192
+
+
+
+
+Range 7: 152507 to 152520
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  152520  GATGTCGTATACAG  152507
+
+
+
+
+Range 8: 169495 to 169507
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10      TCGTATACAGGGC  22
+               |||||||||||||
+Sbjct  169495  TCGTATACAGGGC  169507
+
+
+
+
+>Homo sapiens BAC clone CH17-73B18 from chromosome 22, complete sequence
+Sequence ID: AC270092.1 Length: 195638
+Range 1: 53780 to 53793
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  53793  GATGTCGTATACAG  53780
+
+
+
+
+Range 2: 54278 to 54291
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  54291  GATGTCGTATACAG  54278
+
+
+
+
+Range 3: 54386 to 54399
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  54399  GATGTCGTATACAG  54386
+
+
+
+
+Range 4: 54701 to 54714
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  54714  GATGTCGTATACAG  54701
+
+
+
+
+Range 5: 71689 to 71701
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10     TCGTATACAGGGC  22
+              |||||||||||||
+Sbjct  71689  TCGTATACAGGGC  71701
+
+
+
+
+>Homo sapiens clone BMMD-RP3_181G22, complete sequence
+Sequence ID: KJ155484.1 Length: 166140
+Range 1: 29814 to 29827
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  29814  GATGTCGTATACAG  29827
+
+
+
+
+Range 2: 30129 to 30142
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  30129  GATGTCGTATACAG  30142
+
+
+
+
+Range 3: 30237 to 30250
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  30237  GATGTCGTATACAG  30250
+
+
+
+
+Range 4: 30732 to 30745
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  30732  GATGTCGTATACAG  30745
+
+
+
+
+Range 5: 31524 to 31537
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  31524  GATGTCGTATACAG  31537
+
+
+
+
+Range 6: 31632 to 31645
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  31632  GATGTCGTATACAG  31645
+
+
+
+
+Range 7: 32127 to 32140
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  32127  GATGTCGTATACAG  32140
+
+
+
+
+>Homo sapiens clone BMMD-CH17_210L21, complete sequence
+Sequence ID: KJ155483.1 Length: 236556
+Range 1: 125738 to 125751
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  125751  GATGTCGTATACAG  125738
+
+
+
+
+Range 2: 126233 to 126246
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126246  GATGTCGTATACAG  126233
+
+
+
+
+Range 3: 126341 to 126354
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126354  GATGTCGTATACAG  126341
+
+
+
+
+Range 4: 126656 to 126669
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126669  GATGTCGTATACAG  126656
+
+
+
+
+>Homo sapiens clone BMMD-RP3_329B9, complete sequence
+Sequence ID: KJ155482.1 Length: 128937
+Range 1: 118432 to 118445
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  118432  GATGTCGTATACAG  118445
+
+
+
+
+Range 2: 118747 to 118760
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  118747  GATGTCGTATACAG  118760
+
+
+
+
+Range 3: 118855 to 118868
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  118855  GATGTCGTATACAG  118868
+
+
+
+
+Range 4: 119350 to 119363
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  119350  GATGTCGTATACAG  119363
+
+
+
+
+>Homo sapiens clone BMMD-RP11_249J8, complete sequence
+Sequence ID: KJ155478.1 Length: 175533
+Range 1: 10272 to 10285
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10272  GATGTCGTATACAG  10285
+
+
+
+
+Range 2: 10587 to 10600
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10587  GATGTCGTATACAG  10600
+
+
+
+
+Range 3: 10695 to 10708
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10695  GATGTCGTATACAG  10708
+
+
+
+
+Range 4: 11193 to 11206
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  11193  GATGTCGTATACAG  11206
+
+
+
+
+Range 5: 80202 to 80215
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  80215  GATGTCGTATACAG  80202
+
+
+
+
+Range 6: 80696 to 80709
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  80709  GATGTCGTATACAG  80696
+
+
+
+
+Range 7: 80804 to 80817
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  80817  GATGTCGTATACAG  80804
+
+
+
+
+Range 8: 98113 to 98125
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10     TCGTATACAGGGC  22
+              |||||||||||||
+Sbjct  98113  TCGTATACAGGGC  98125
+
+
+
+
+>Homo sapiens clone BMMD-CH17_116O7, complete sequence
+Sequence ID: KJ155477.1 Length: 213031
+Range 1: 15363 to 15376
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  15376  GATGTCGTATACAG  15363
+
+
+
+
+Range 2: 15965 to 15978
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  15978  GATGTCGTATACAG  15965
+
+
+
+
+Range 3: 138596 to 138609
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  138596  GATGTCGTATACAG  138609
+
+
+
+
+Range 4: 138911 to 138924
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  138911  GATGTCGTATACAG  138924
+
+
+
+
+Range 5: 139019 to 139032
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  139019  GATGTCGTATACAG  139032
+
+
+
+
+Range 6: 139514 to 139527
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  139514  GATGTCGTATACAG  139527
+
+
+
+
+>Homo sapiens clone BMMD-RP13_68B7, complete sequence
+Sequence ID: KJ155476.1 Length: 206327
+Range 1: 92587 to 92600
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  92587  GATGTCGTATACAG  92600
+
+
+
+
+Range 2: 92902 to 92915
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  92902  GATGTCGTATACAG  92915
+
+
+
+
+Range 3: 93010 to 93023
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  93010  GATGTCGTATACAG  93023
+
+
+
+
+Range 4: 93511 to 93524
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  93511  GATGTCGTATACAG  93524
+
+
+
+
+>Homo sapiens clone BMMD-RP11_690P21, complete sequence
+Sequence ID: KJ155475.1 Length: 190334
+Range 1: 143493 to 143506
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  143506  GATGTCGTATACAG  143493
+
+
+
+
+Range 2: 143990 to 144003
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  144003  GATGTCGTATACAG  143990
+
+
+
+
+Range 3: 144098 to 144111
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  144111  GATGTCGTATACAG  144098
+
+
+
+
+Range 4: 144413 to 144426
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  144426  GATGTCGTATACAG  144413
+
+
+
+
+>Homo sapiens clone BMMD-RP11_130B16, complete sequence
+Sequence ID: KJ155474.1 Length: 188886
+Range 1: 116951 to 116964
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  116951  GATGTCGTATACAG  116964
+
+
+
+
+Range 2: 117266 to 117279
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117266  GATGTCGTATACAG  117279
+
+
+
+
+Range 3: 117374 to 117387
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117374  GATGTCGTATACAG  117387
+
+
+
+
+Range 4: 117871 to 117884
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117871  GATGTCGTATACAG  117884
+
+
+
+
+>Homo sapiens clone BMMD-CTD_3048O14, complete sequence
+Sequence ID: KJ155473.1 Length: 139025
+Range 1: 109406 to 109419
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109406  GATGTCGTATACAG  109419
+
+
+
+
+Range 2: 109721 to 109734
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109721  GATGTCGTATACAG  109734
+
+
+
+
+Range 3: 109829 to 109842
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109829  GATGTCGTATACAG  109842
+
+
+
+
+Range 4: 110327 to 110340
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  110327  GATGTCGTATACAG  110340
+
+
+
+
+Range 5: 92418 to 92430
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10     TCGTATACAGGGC  22
+              |||||||||||||
+Sbjct  92430  TCGTATACAGGGC  92418
+
+
+
+
+>Homo sapiens clone BMMD-RP13_49D18, complete sequence
+Sequence ID: KJ155472.1 Length: 195344
+Range 1: 44987 to 45000
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  44987  GATGTCGTATACAG  45000
+
+
+
+
+Range 2: 45302 to 45315
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  45302  GATGTCGTATACAG  45315
+
+
+
+
+Range 3: 45410 to 45423
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  45410  GATGTCGTATACAG  45423
+
+
+
+
+Range 4: 45908 to 45921
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  45908  GATGTCGTATACAG  45921
+
+
+
+
+Range 5: 114045 to 114058
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  114058  GATGTCGTATACAG  114045
+
+
+
+
+Range 6: 114539 to 114552
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  114552  GATGTCGTATACAG  114539
+
+
+
+
+Range 7: 114647 to 114660
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  114660  GATGTCGTATACAG  114647
+
+
+
+
+Range 8: 27999 to 28011
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10     TCGTATACAGGGC  22
+              |||||||||||||
+Sbjct  28011  TCGTATACAGGGC  27999
+
+
+
+
+>PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript variant X3, mRNA
+Sequence ID: XM_047443919.1 Length: 6709
+Range 1: 984 to 997
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACA  18
+            ||||||||||||||
+Sbjct  997  TGATGTCGTATACA  984
+
+
+
+
+>PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript variant X2, mRNA
+Sequence ID: XM_017003803.3 Length: 7379
+Range 1: 1660 to 1673
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1673  TGATGTCGTATACA  1660
+
+
+
+
+>PREDICTED: Homo sapiens gamma-glutamyl carboxylase (GGCX), transcript variant X1, mRNA
+Sequence ID: XM_005264259.6 Length: 7550
+Range 1: 1831 to 1844
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1844  TGATGTCGTATACA  1831
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X8, mRNA
+Sequence ID: XM_011525400.2 Length: 3982
+Range 1: 641 to 658
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4    CTGATGTCGTATACAGGG  21
+            ||||||||||| ||||||
+Sbjct  658  CTGATGTCGTAGACAGGG  641
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X7, mRNA
+Sequence ID: XM_047436966.1 Length: 4825
+Range 1: 1484 to 1501
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  1501  CTGATGTCGTAGACAGGG  1484
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X6, mRNA
+Sequence ID: XM_047436965.1 Length: 6533
+Range 1: 3192 to 3209
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  3209  CTGATGTCGTAGACAGGG  3192
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X5, mRNA
+Sequence ID: XM_017025249.2 Length: 4991
+Range 1: 1650 to 1667
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  1667  CTGATGTCGTAGACAGGG  1650
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X4, mRNA
+Sequence ID: XM_047436964.1 Length: 3854
+Range 1: 549 to 566
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4    CTGATGTCGTATACAGGG  21
+            ||||||||||| ||||||
+Sbjct  566  CTGATGTCGTAGACAGGG  549
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X3, mRNA
+Sequence ID: XM_047436963.1 Length: 8744
+Range 1: 5439 to 5456
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  5456  CTGATGTCGTAGACAGGG  5439
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X2, mRNA
+Sequence ID: XM_047436962.1 Length: 9787
+Range 1: 6446 to 6463
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  6463  CTGATGTCGTAGACAGGG  6446
+
+
+
+
+>PREDICTED: Homo sapiens unk zinc finger (UNK), transcript variant X1, mRNA
+Sequence ID: XM_017025248.2 Length: 8899
+Range 1: 5558 to 5575
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4     CTGATGTCGTATACAGGG  21
+             ||||||||||| ||||||
+Sbjct  5575  CTGATGTCGTAGACAGGG  5558
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 21
+Sequence ID: CP068257.2 Length: 45090682
+Range 1: 41464903 to 41464916
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3         ACTGATGTCGTATA  16
+                 ||||||||||||||
+Sbjct  41464916  ACTGATGTCGTATA  41464903
+
+
+
+
+Range 2: 23543965 to 23543977
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  3         ACTGATGTCGTAT  15
+                 |||||||||||||
+Sbjct  23543977  ACTGATGTCGTAT  23543965
+
+
+
+
+Range 3: 34958017 to 34958029
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9         GTCGTATACAGGG  21
+                 |||||||||||||
+Sbjct  34958029  GTCGTATACAGGG  34958017
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 17
+Sequence ID: CP068261.2 Length: 84276897
+Range 1: 76705423 to 76705440
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4         CTGATGTCGTATACAGGG  21
+                 ||||||||||| ||||||
+Sbjct  76705440  CTGATGTCGTAGACAGGG  76705423
+
+
+
+
+>Homo sapiens isolate CHM13 chromosome 16
+Sequence ID: CP068262.2 Length: 96330374
+Range 1: 88941154 to 88941167
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  7         ATGTCGTATACAGG  20
+                 ||||||||||||||
+Sbjct  88941167  ATGTCGTATACAGG  88941154
+
+
+
+
+Range 2: 1364166 to 1364178
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9        GTCGTATACAGGG  21
+                |||||||||||||
+Sbjct  1364178  GTCGTATACAGGG  1364166
+
+
+
+
+Range 3: 32859430 to 32859442
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5         TGATGTCGTATAC  17
+                 |||||||||||||
+Sbjct  32859430  TGATGTCGTATAC  32859442
+
+
+
+
+Range 4: 34615874 to 34615886
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5         TGATGTCGTATAC  17
+                 |||||||||||||
+Sbjct  34615886  TGATGTCGTATAC  34615874
+
+
+
+
+Range 5: 34619266 to 34619278
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5         TGATGTCGTATAC  17
+                 |||||||||||||
+Sbjct  34619278  TGATGTCGTATAC  34619266
+
+
+
+
+Range 6: 96096047 to 96096059
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3         ACTGATGTCGTAT  15
+                 |||||||||||||
+Sbjct  96096047  ACTGATGTCGTAT  96096059
+
+
+
+
+>Homo sapiens DNA, sequence_id: unplaced_0177
+Sequence ID: AP023662.1 Length: 60365
+Range 1: 17055 to 17068
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  17055  GATGTCGTATACAG  17068
+
+
+
+
+Range 2: 17370 to 17383
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  17370  GATGTCGTATACAG  17383
+
+
+
+
+Range 3: 17478 to 17491
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  17478  GATGTCGTATACAG  17491
+
+
+
+
+Range 4: 17973 to 17986
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  17973  GATGTCGTATACAG  17986
+
+
+
+
+>Homo sapiens DNA, chromosome 21, nearly complete genome
+Sequence ID: AP023481.1 Length: 44550604
+Range 1: 40914943 to 40914956
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3         ACTGATGTCGTATA  16
+                 ||||||||||||||
+Sbjct  40914956  ACTGATGTCGTATA  40914943
+
+
+
+
+Range 2: 22998715 to 22998727
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  3         ACTGATGTCGTAT  15
+                 |||||||||||||
+Sbjct  22998727  ACTGATGTCGTAT  22998715
+
+
+
+
+Range 3: 34413035 to 34413047
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9         GTCGTATACAGGG  21
+                 |||||||||||||
+Sbjct  34413047  GTCGTATACAGGG  34413035
+
+
+
+
+>Homo sapiens DNA, chromosome 17, nearly complete genome
+Sequence ID: AP023477.1 Length: 80688777
+Range 1: 73299686 to 73299703
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4         CTGATGTCGTATACAGGG  21
+                 ||||||||||| ||||||
+Sbjct  73299703  CTGATGTCGTAGACAGGG  73299686
+
+
+
+
+>Homo sapiens DNA, chromosome 16, nearly complete genome
+Sequence ID: AP023476.1 Length: 94690957
+Range 1: 87410928 to 87410941
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  7         ATGTCGTATACAGG  20
+                 ||||||||||||||
+Sbjct  87410941  ATGTCGTATACAGG  87410928
+
+
+
+
+Range 2: 1361960 to 1361972
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9        GTCGTATACAGGG  21
+                |||||||||||||
+Sbjct  1361972  GTCGTATACAGGG  1361960
+
+
+
+
+Range 3: 94557632 to 94557644
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3         ACTGATGTCGTAT  15
+                 |||||||||||||
+Sbjct  94557632  ACTGATGTCGTAT  94557644
+
+
+
+
+>Homo sapiens chromosome unknown clone VMRC59-305D15, complete sequence
+Sequence ID: AC279656.1 Length: 166831
+Range 1: 2971 to 2984
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2984  GATGTCGTATACAG  2971
+
+
+
+
+Range 2: 3465 to 3478
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  3478  GATGTCGTATACAG  3465
+
+
+
+
+Range 3: 3573 to 3586
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  3586  GATGTCGTATACAG  3573
+
+
+
+
+Range 4: 126405 to 126418
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126405  GATGTCGTATACAG  126418
+
+
+
+
+Range 5: 126720 to 126733
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126720  GATGTCGTATACAG  126733
+
+
+
+
+Range 6: 126828 to 126841
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  126828  GATGTCGTATACAG  126841
+
+
+
+
+Range 7: 127325 to 127338
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  127325  GATGTCGTATACAG  127338
+
+
+
+
+>Homo sapiens chromosome unknown clone VMRC59-218D02, complete sequence
+Sequence ID: AC279547.1 Length: 142752
+Range 1: 117239 to 117252
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117239  GATGTCGTATACAG  117252
+
+
+
+
+Range 2: 117347 to 117360
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117347  GATGTCGTATACAG  117360
+
+
+
+
+Range 3: 117841 to 117854
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  117841  GATGTCGTATACAG  117854
+
+
+
+
+>Homo sapiens gamma-glutamyl carboxylase (GGCX), RefSeqGene (LRG_592) on chromosome 2
+Sequence ID: NG_011811.2 Length: 23680
+Range 1: 15488 to 15501
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5      TGATGTCGTATACA  18
+              ||||||||||||||
+Sbjct  15501  TGATGTCGTATACA  15488
+
+
+
+
+>Homo sapiens FOSMID clone COR2A-DD0002S1BNU_G5 from chromosome 22, complete sequence
+Sequence ID: AC238580.2 Length: 33214
+Range 1: 18096 to 18109
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  18109  GATGTCGTATACAG  18096
+
+
+
+
+Range 2: 18590 to 18603
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  18603  GATGTCGTATACAG  18590
+
+
+
+
+>Human DNA sequence from clone CH507-152C13 on chromosome 21, complete sequence
+Sequence ID: FP236240.8 Length: 152923
+Range 1: 38207 to 38220
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3      ACTGATGTCGTATA  16
+              ||||||||||||||
+Sbjct  38220  ACTGATGTCGTATA  38207
+
+
+
+
+>Homo sapiens cystathionine beta-synthase (CBS), RefSeqGene (LRG_777) on chromosome 21
+Sequence ID: NG_008938.1 Length: 29740
+Range 1: 7131 to 7144
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3     ACTGATGTCGTATA  16
+             ||||||||||||||
+Sbjct  7131  ACTGATGTCGTATA  7144
+
+
+
+
+>Homo sapiens gamma-glutymyl carboxylase mRNA, complete cds
+Sequence ID: EU847509.1 Length: 2280
+Range 1: 1769 to 1782
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1782  TGATGTCGTATACA  1769
+
+
+
+
+>Homo sapiens cDNA FLJ53359 complete cds, highly similar to Vitamin K-dependent gamma-carboxylase (EC 6.4.-.-)
+Sequence ID: AK297397.1 Length: 2256
+Range 1: 1641 to 1654
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1654  TGATGTCGTATACA  1641
+
+
+
+
+>Homo sapiens cDNA FLJ53640 complete cds, highly similar to Vitamin K-dependent gamma-carboxylase (EC 6.4.-.-)
+Sequence ID: AK298982.1 Length: 2604
+Range 1: 1526 to 1539
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1539  TGATGTCGTATACA  1526
+
+
+
+
+>Homo sapiens cDNA FLJ58650 complete cds
+Sequence ID: AK302783.1 Length: 3186
+Range 1: 1250 to 1263
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1263  GATGTCGTATACAG  1250
+
+
+
+
+Range 2: 1748 to 1761
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1761  GATGTCGTATACAG  1748
+
+
+
+
+Range 3: 1856 to 1869
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1869  GATGTCGTATACAG  1856
+
+
+
+
+Range 4: 2171 to 2184
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  2184  GATGTCGTATACAG  2171
+
+
+
+
+>Homo sapiens cDNA FLJ61480 complete cds
+Sequence ID: AK302545.1 Length: 1753
+Range 1: 1502 to 1515
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  1515  GATGTCGTATACAG  1502
+
+
+
+
+>Homo sapiens cDNA, FLJ93613, highly similar to Homo sapiens gamma-glutamyl carboxylase (GGCX), mRNA
+Sequence ID: AK313126.1 Length: 2351
+Range 1: 1840 to 1853
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1853  TGATGTCGTATACA  1840
+
+
+
+
+>Homo sapiens FOSMID clone ABC9-45921600J15 from chromosome 2, complete sequence
+Sequence ID: AC207174.3 Length: 37816
+Range 1: 24935 to 24948
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGTATACA  18
+              ||||||||||||||
+Sbjct  24935  TGATGTCGTATACA  24948
+
+
+
+
+>Homo sapiens gamma-glutamyl carboxylase (GGCX) gene, complete cds
+Sequence ID: EU135733.1 Length: 16504
+Range 1: 12433 to 12446
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5      TGATGTCGTATACA  18
+              ||||||||||||||
+Sbjct  12446  TGATGTCGTATACA  12433
+
+
+
+
+>Homo sapiens mRNA for Vitamin K-dependent gamma-carboxylase variant, clone: STM05092
+Sequence ID: AK225663.1 Length: 2518
+Range 1: 1831 to 1844
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGATGTCGTATACA  18
+             ||||||||||||||
+Sbjct  1844  TGATGTCGTATACA  1831
+
+
+
+
+>Human DNA sequence from clone RP11-248J23 on chromosome 10, complete sequence
+Sequence ID: AL513355.16 Length: 113212
+Range 1: 47040 to 47053
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2      TACTGATGTCGTAT  15
+              ||||||||||||||
+Sbjct  47040  TACTGATGTCGTAT  47053
+
+
+
+
+>Human DNA sequence from clone RP11-136C6 on chromosome 6, complete sequence
+Sequence ID: AL451185.14 Length: 101841
+Range 1: 9324 to 9337
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  7     ATGTCGTATACAGG  20
+             ||||||||||||||
+Sbjct  9324  ATGTCGTATACAGG  9337
+
+
+
+
+>Human DNA sequence from clone RP11-52L5 on chromosome 13, complete sequence
+Sequence ID: AL445209.4 Length: 157302
+Range 1: 102974 to 102987
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5       TGATGTCGTATACA  18
+               ||||||||||||||
+Sbjct  102974  TGATGTCGTATACA  102987
+
+
+
+
+>Human DNA sequence from clone RP11-280J7 on chromosome 13, complete sequence
+Sequence ID: AL354827.5 Length: 127641
+Range 1: 93674 to 93691
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  5      TGATGTCGTATACAGGGC  22
+              |||||||||| |||||||
+Sbjct  93674  TGATGTCGTAGACAGGGC  93691
+
+
+
+
+>Homo sapiens cDNA FLJ26629 fis, clone MPC05371, highly similar to Vitamin K-dependent gamma-carboxylase (EC 6.4.-.-)
+Sequence ID: AK130139.1 Length: 1838
+Range 1: 464 to 477
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5    TGATGTCGTATACA  18
+            ||||||||||||||
+Sbjct  477  TGATGTCGTATACA  464
+
+
+
+
+>Homo sapiens unkempt homolog (Drosophila), mRNA (cDNA clone IMAGE:6012927), partial cds
+Sequence ID: BC053362.1 Length: 3856
+Range 1: 499 to 516
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4    CTGATGTCGTATACAGGG  21
+            ||||||||||| ||||||
+Sbjct  516  CTGATGTCGTAGACAGGG  499
+
+
+
+
+>Homo sapiens chromosome 22 clone pac699j1 map 22q12, complete sequence
+Sequence ID: AC008103.29 Length: 98557
+Range 1: 26308 to 26321
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26308  GATGTCGTATACAG  26321
+
+
+
+
+Range 2: 26623 to 26636
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26623  GATGTCGTATACAG  26636
+
+
+
+
+Range 3: 26731 to 26744
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26731  GATGTCGTATACAG  26744
+
+
+
+
+Range 4: 27225 to 27238
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  27225  GATGTCGTATACAG  27238
+
+
+
+
+>Homo sapiens chromosome 22 clone b659m11 map 22q11, complete sequence
+Sequence ID: AC023491.23 Length: 150754
+Range 1: 109570 to 109583
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109570  GATGTCGTATACAG  109583
+
+
+
+
+Range 2: 109885 to 109898
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109885  GATGTCGTATACAG  109898
+
+
+
+
+Range 3: 109993 to 110006
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  109993  GATGTCGTATACAG  110006
+
+
+
+
+Range 4: 110488 to 110501
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  110488  GATGTCGTATACAG  110501
+
+
+
+
+>Homo sapiens chromosome 22 clone b562f10 map 22q11, complete sequence
+Sequence ID: AC007731.16 Length: 182617
+Range 1: 18535 to 18548
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  18548  GATGTCGTATACAG  18535
+
+
+
+
+Range 2: 19029 to 19042
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  19042  GATGTCGTATACAG  19029
+
+
+
+
+>Homo sapiens chromosome 22 clone p413m7 map 22q11, complete sequence
+Sequence ID: AC009288.15 Length: 140876
+Range 1: 77385 to 77398
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  77385  GATGTCGTATACAG  77398
+
+
+
+
+Range 2: 77700 to 77713
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  77700  GATGTCGTATACAG  77713
+
+
+
+
+Range 3: 77808 to 77821
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  77808  GATGTCGTATACAG  77821
+
+
+
+
+Range 4: 78303 to 78316
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  78303  GATGTCGTATACAG  78316
+
+
+
+
+>Homo sapiens chromosome 22 clone b291 map 22q11, complete sequence
+Sequence ID: AC007981.47 Length: 175358
+Range 1: 35712 to 35725
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  35725  GATGTCGTATACAG  35712
+
+
+
+
+Range 2: 36205 to 36218
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36218  GATGTCGTATACAG  36205
+
+
+
+
+Range 3: 36313 to 36326
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36326  GATGTCGTATACAG  36313
+
+
+
+
+Range 4: 36628 to 36641
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  36641  GATGTCGTATACAG  36628
+
+
+
+
+Range 5: 159487 to 159500
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  159487  GATGTCGTATACAG  159500
+
+
+
+
+Range 6: 159595 to 159608
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  159595  GATGTCGTATACAG  159608
+
+
+
+
+Range 7: 160089 to 160102
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  160089  GATGTCGTATACAG  160102
+
+
+
+
+>Homo sapiens chromosome 22 clone bac519d21 map 22q11, complete sequence
+Sequence ID: AC008079.24 Length: 170102
+Range 1: 115867 to 115880
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  115867  GATGTCGTATACAG  115880
+
+
+
+
+Range 2: 116182 to 116195
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  116182  GATGTCGTATACAG  116195
+
+
+
+
+Range 3: 116290 to 116303
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  116290  GATGTCGTATACAG  116303
+
+
+
+
+Range 4: 116788 to 116801
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  116788  GATGTCGTATACAG  116801
+
+
+
+
+Range 5: 98878 to 98890
+
+Score:26.3 bits(13), Expect:451, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10     TCGTATACAGGGC  22
+              |||||||||||||
+Sbjct  98890  TCGTATACAGGGC  98878
+
+
+
+
+>Homo sapiens genomic DNA; cDNA DKFZp667O1919 (from clone DKFZp667O1919)
+Sequence ID: AL832312.1 Length: 2659
+Range 1: 424 to 441
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  4    CTGATGTCGTATACAGGG  21
+            ||||||||||| ||||||
+Sbjct  441  CTGATGTCGTAGACAGGG  424
+
+
+
+
+>Homo sapiens BAC clone RP11-374C5 from 2, complete sequence
+Sequence ID: AC011238.8 Length: 155764
+Range 1: 113792 to 113809
+
+Score:28.2 bits(14), Expect:114, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  2       TACTGATGTCGTATACAG  19
+               ||||||||| ||||||||
+Sbjct  113809  TACTGATGTAGTATACAG  113792
+
+
+
+
+>Homo sapiens BAC clone RP11-513O19 from 2, complete sequence
+Sequence ID: AC016753.9 Length: 175694
+Range 1: 117993 to 118006
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5       TGATGTCGTATACA  18
+               ||||||||||||||
+Sbjct  117993  TGATGTCGTATACA  118006
+
+
+
+
+>Homo sapiens chromosome 5 clone CTD-2075D11, complete sequence
+Sequence ID: AC010388.6 Length: 159766
+Range 1: 51866 to 51879
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  7      ATGTCGTATACAGG  20
+              ||||||||||||||
+Sbjct  51866  ATGTCGTATACAGG  51879
+
+
+
+
+>Homo sapiens chromosome 22 clone pac995o6 map 22q11, complete sequence
+Sequence ID: AC008132.35 Length: 145598
+Range 1: 40573 to 40586
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  40586  GATGTCGTATACAG  40573
+
+
+
+
+Range 2: 41070 to 41083
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  41083  GATGTCGTATACAG  41070
+
+
+
+
+Range 3: 41178 to 41191
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  41191  GATGTCGTATACAG  41178
+
+
+
+
+Range 4: 41493 to 41506
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  41506  GATGTCGTATACAG  41493
+
+
+
+
+>Homo sapiens chromosome 22 clone b379n11 map 22q11, complete sequence
+Sequence ID: AC008018.20 Length: 180884
+Range 1: 103541 to 103554
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  103554  GATGTCGTATACAG  103541
+
+
+
+
+Range 2: 104036 to 104049
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  104049  GATGTCGTATACAG  104036
+
+
+
+
+Range 3: 104144 to 104157
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  104157  GATGTCGTATACAG  104144
+
+
+
+
+Range 4: 104459 to 104472
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6       GATGTCGTATACAG  19
+               ||||||||||||||
+Sbjct  104472  GATGTCGTATACAG  104459
+
+
+
+
+>Homo sapiens chromosome 22 clone b33l19 map 22q11, complete sequence
+Sequence ID: AC023490.5 Length: 176051
+Range 1: 9285 to 9298
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  9298  GATGTCGTATACAG  9285
+
+
+
+
+Range 2: 9783 to 9796
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  9796  GATGTCGTATACAG  9783
+
+
+
+
+Range 3: 9891 to 9904
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     GATGTCGTATACAG  19
+             ||||||||||||||
+Sbjct  9904  GATGTCGTATACAG  9891
+
+
+
+
+Range 4: 10206 to 10219
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  10219  GATGTCGTATACAG  10206
+
+
+
+
+>Homo sapiens chromosome 22 clone b293 map 22q11, complete sequence
+Sequence ID: AC007324.55 Length: 122364
+Range 1: 83306 to 83319
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  83319  GATGTCGTATACAG  83306
+
+
+
+
+Range 2: 83800 to 83813
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  83813  GATGTCGTATACAG  83800
+
+
+
+
+Range 3: 83908 to 83921
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  83921  GATGTCGTATACAG  83908
+
+
+
+
+>Homo sapiens 22q11 PAC Clone Clone p52f6 In DGCR Region, complete sequence
+Sequence ID: AC005500.2 Length: 192592
+Range 1: 13510 to 13523
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  13523  GATGTCGTATACAG  13510
+
+
+
+
+Range 2: 14004 to 14017
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  14017  GATGTCGTATACAG  14004
+
+
+
+
+>Homo sapiens chromosome 22 clone c31p7 map 22q11, complete sequence
+Sequence ID: AC012398.4 Length: 28862
+Range 1: 26736 to 26749
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  26749  GATGTCGTATACAG  26736
+
+
+
+
+Range 2: 27234 to 27247
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  27247  GATGTCGTATACAG  27234
+
+
+
+
+Range 3: 27342 to 27355
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  27355  GATGTCGTATACAG  27342
+
+
+
+
+Range 4: 27657 to 27670
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  27670  GATGTCGTATACAG  27657
+
+
+
+
+>Homo sapiens chromosome 22 clone chk89 map 22q11, complete sequence
+Sequence ID: AC024070.2 Length: 38849
+Range 1: 37907 to 37920
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  37920  GATGTCGTATACAG  37907
+
+
+
+
+Range 2: 38401 to 38414
+
+Score:28.2 bits(14), Expect:114, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6      GATGTCGTATACAG  19
+              ||||||||||||||
+Sbjct  38414  GATGTCGTATACAG  38401
+
+
+
+
+		
+
+
