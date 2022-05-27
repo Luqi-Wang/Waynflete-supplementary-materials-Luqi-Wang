@@ -1,5 +1,5 @@
 RID: 8ZZ22X4B013	
-Job Title:Nucleotide Sequence 				
+Job Title: GUACUGAUGUCGUAUACAGGGC sequence multi-alingment with SARS-CoV and MERS-CoV			
 Program: BLASTN 
 Database: nt Nucleotide collection (nt)
 Query #1:  Query ID: lcl|Query_12957 Length: 22
