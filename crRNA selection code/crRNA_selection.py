@@ -19,7 +19,7 @@ end_index = 22
 Total_crRNA = 0 # A count of all the crRNA sequences, including the ones that are not selected
 
 # Opening the SARS-CoV-2 RdRp gene sequence file derived from SnapGene. 
-genome_file =  open("SARS-CoV-2-RdRp.txt", 'r', encoding = 'utf-8') 
+genome_file =  open("SARS-CoV-2-RdRp.txt", 'r+', encoding = 'utf-8') 
 genome = genome_file.read().replace('\n', '') # Reads the file and turns the file into a very long string
 # This is a loop which goes through the entire RdRp gene sequence to gain all the possible 22 nucleotide spacer sequences.
 while end_index < len(genome) + 1: 
@@ -60,13 +60,21 @@ while end_index < len(genome) + 1:
     start_index = start_index + 1   # I increase the start index and the end index to get the next 22 nucleotide sequence from the 
     end_index = end_index + 1       # RdRp gene.
     Total_crRNA = Total_crRNA + 1 # Counts the total number of crRNA including not selected ones 
-
+genome_file.close()
 # This prints out all of the selected crRNAs in the crRNA array
+
+crRNA_array_file = open("crRNA-array-for-SARS-CoV-2-RdRp.txt", 'w', encoding = 'utf-8')
+DIVIDER = '>'
 for crRNA in crRNA_array: 
     nucleotide_sequence = ''
     for nucleotide in crRNA:
         nucleotide_sequence = nucleotide_sequence + nucleotide
     print(nucleotide_sequence)
+    crRNA_array_file.write(DIVIDER)        # Formats the sequences in the crRNA array into a file in the format FASTA for 
+    crRNA_array_file.write('\n')           # Multi query BLAST.
+    crRNA_array_file.write(nucleotide_sequence)    
+    crRNA_array_file.write('\n')
+crRNA_array_file.close()
 print('Target gene: SARS-CoV-2 RdRp')
 print('Number of nucleotides in SARS-CoV-2 RdRp gene:')
 print(len(genome))
@@ -74,6 +82,5 @@ print('Total number of crRNA spacer sequences possible for targeting SARS-CoV-2 
 print(Total_crRNA)
 print('Total number of selected crRNAs: ')
 print(len(crRNA_array))
-genome_file.close()
 
 
