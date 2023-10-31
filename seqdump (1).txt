@@ -1,0 +1,168 @@
+>NC_060930.1:41869851-41869867 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ATCCTAGGGGCCGGCTG
+>NC_060930.1:39373468-39373481 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGGGG
+>NC_060930.1:72599956-72599969 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGCCCCTAGGATTC
+>NC_060930.1:103938389-103938402 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCCTAGGATTCTT
+>NC_060930.1:6824566-6824578 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCCTAGGATTCT
+>NC_060930.1:21514868-21514880 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGGG
+>NC_060930.1:25648861-25648873 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCGGCCCCTAGGA
+>NC_060930.1:37245088-37245100 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCGGCCCCTAGG
+>NC_060930.1:38370610-38370622 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGCCCCTAGGATT
+>NC_060930.1:42661234-42661246 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGGG
+>NC_060930.1:62351116-62351128 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AATCCTAGGGGCC
+>NC_060930.1:67637779-67637791 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCTT
+>NC_060930.1:79239714-79239726 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCCTAGGATTCT
+>NC_060930.1:85112694-85112706 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGGG
+>NC_060930.1:90279613-90279625 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCTT
+>NC_060930.1:137379950-137379962 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGGGCCGGC
+>NC_060930.1:139520685-139520697 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGGG
+>NC_060930.1:150550373-150550385 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGGG
+>NC_060930.1:155231753-155231765 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GAATCCTAGGGGC
+>NC_060930.1:160048478-160048490 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ATCCTAGGGGCCG
+>NC_060930.1:163443306-163443318 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCTT
+>NC_060930.1:167402457-167402469 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCTT
+>NC_060930.1:167541326-167541338 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ACAGCCGGCCCCT
+>NC_060930.1:8146212-8146223 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:9571423-9571434 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:10271397-10271408 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GAATCCTAGGGG
+>NC_060930.1:10334280-10334291 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+TCCTAGGGGCCG
+>NC_060930.1:15376828-15376839 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCCCTAGGATT
+>NC_060930.1:17099750-17099761 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCGGCCCCTAGG
+>NC_060930.1:20140102-20140113 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:23384093-23384104 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ATCCTAGGGGCC
+>NC_060930.1:23809105-23809116 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:27310753-27310764 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:33350164-33350175 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:33684172-33684183 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:33968509-33968520 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCGGCCCCTAGG
+>NC_060930.1:36580069-36580080 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ATCCTAGGGGCC
+>NC_060930.1:38875992-38876007 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CAGCCTGCCCCTAGGA
+>NC_060930.1:39401289-39401300 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AATCCTAGGGGC
+>NC_060930.1:40397861-40397872 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:40683601-40683612 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+ATCCTAGGGGCC
+>NC_060930.1:44506245-44506256 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CGGCCCCTAGGA
+>NC_060930.1:46521310-46521321 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:47349712-47349723 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:49776671-49776682 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGGGGCCGGCTG
+>NC_060930.1:50090686-50090697 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:51011320-51011331 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:53664733-53664744 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:65219627-65219638 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:65632698-65632709 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:70037207-70037218 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCCTAGGATTC
+>NC_060930.1:72882303-72882314 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:79850803-79850814 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:85877821-85877832 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:88069419-88069430 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:91794114-91794125 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:96636056-96636067 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CGGCCCCTAGGA
+>NC_060930.1:100411339-100411350 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGCCCCTAGGAT
+>NC_060930.1:105774863-105774874 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AATCCTAGGGGC
+>NC_060930.1:106355863-106355878 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGCGGCCG
+>NC_060930.1:106528463-106528474 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCCCTAGGATT
+>NC_060930.1:107316732-107316743 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:109246889-109246900 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:109273441-109273452 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGGGCCGG
+>NC_060930.1:115291604-115291615 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCGGCCCCTAG
+>NC_060930.1:122342527-122342538 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:122818124-122818135 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:123504141-123504152 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:125150155-125150166 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:125800085-125800096 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
+>NC_060930.1:128383117-128383128 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCTAGGATTCT
+>NC_060930.1:149669957-149669968 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:157156366-157156377 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCCCTAGGATT
+>NC_060930.1:158653133-158653144 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:158902698-158902709 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGAATCCTAGGG
+>NC_060930.1:159269881-159269892 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCCCTAGGATTC
+>NC_060930.1:163152098-163152109 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+CCTAGGATTCTT
+>NC_060930.1:167693953-167693964 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GCCCCTAGGATT
+>NC_060930.1:168496927-168496938 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AATCCTAGGGGC
+>NC_060930.1:169458319-169458330 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AGGGGCCGGCTG
+>NC_060930.1:170195342-170195353 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGGGCCGGCTGT
+>NC_060930.1:170195452-170195463 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGGGCCGGCTGT
+>NC_060930.1:170195707-170195718 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+GGGGCCGGCTGT
+>NC_060930.1:171569429-171569440 Homo sapiens isolate CHM13 chromosome 6, alternate assembly T2T-CHM13v2.0
+AAGAATCCTAGG
